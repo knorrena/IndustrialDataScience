@@ -1,0 +1,12 @@
+# basic options
+title:  Industrial Data Science
+author:  Dr. Karl Norrena
+email:  karl@datadotdat.com
+description:  Industrial Site
+twitter_username:  knorrena
+github_username:  knorrena
+
+# Build settings
+markdown:  kramdown
+theme:  minima
+
