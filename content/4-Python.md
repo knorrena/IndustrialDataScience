@@ -1,6 +1,6 @@
 ---
-title: Blog
-nav: Blog
+title: Python
+nav: Python
 ---
 
 ## What I know about Python
