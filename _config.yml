@@ -15,11 +15,12 @@ title: Industrial-Data-Science
 title-icon: fas fa-code
 # description, keywords, and image for meta tags
 description: "Learn Industrial Data Science"
-keywords: "indsutrial, data-science"
+keywords: "industrial, data-science"
 #featured-image: "/images/uidaho-workshop.jpg"
 
 # author settings for cc-by, appears in the footer and credits
 author: karl norrena
+email: karl@datadotdat.com
 pub_year: 2021
 github_username: knorrena
 
@@ -50,3 +51,4 @@ defaults:
       layout: "section"
 # Build settings
 markdown: kramdown
+theme: minima
