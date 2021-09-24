@@ -72,4 +72,8 @@ Jekyll lets you write SASS in modular chucks called partials, in the `_sass` dir
 
 ### Imbed Jupyter Notebooks in your Pages
 
-https://elc.github.io/posts/embed-interactive-notebooks/
+[Embed](https://elc.github.io/posts/embed-interactive-notebooks/) https://elc.github.io/posts/embed-interactive-notebooks/
+
+[Another embed](https://thedatafrog.com/en/articles/jupyter-notebooks-web-pages/)
+
+[Another embed](https://github.com/cbernet/jupyter_web)
