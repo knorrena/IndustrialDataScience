@@ -8,7 +8,7 @@ topics: variable frequency drives, Thought Leadership and Data Product Invention
 **Clients**: Northern Miner, Mining Intelligence, CostMine  
 **Objective**: Combine CostMine and Mining Intelligence data, invent new products, design product interface, migrate the products and users to a cloud based solution.  
 
-**Context**:  
+** Context **:  
 The Northern Miner started publication in 1915, and every week it publishes mining industry news, and data insights using the data it collects. The scope of the data includes mining cost models, labor costs, electric development, equipment, power, energy, materials, reagents, smelting and liberation facilities, taxes, transportation, commodity pricing, and ESG modelling. The data is used for Business Development, Market Assessment, Project and Company Evaluation, Due Diligence, and Academic Research
 
 
@@ -16,7 +16,7 @@ The Northern Miner started publication in 1915, and every week it publishes mini
 **Clients**: Price Waterhouse and TAQA  
 **Objectives**: Use geologic models, reservoir engineering data, completions data, and production data to build a prediction model for development planning, budget building, and well location selection.  
 
-**Context**:  
+** Context **:  
 Production prediction for budgeting, or motivating a new well program is difficult. The difficulty is becuase there more than 150 different features to consider when predicting how a new well might perform. Industrial Data Science designed, managed, and delivered a LGR IP90 prediction tool for TAQA and PWC. The project to identified drilling and completion practices that maximize probability of success on an unconventional asset. Over 1000 wells, and 150 features, and over 1000 wells. Constructed data model, and after the Gradient Boost based model interrogation, the effective feature set contained 16 essential features. Used an interactive Jupyter Notebooks as a deliverable for development planning.  
 
 
@@ -24,7 +24,7 @@ Production prediction for budgeting, or motivating a new well program is difficu
 **Client**: Canadian Natural Resources
 **Objective**: Design an unsupervised algorithm that agnostically identifies transmitters that are entering a state that would cause a process upset or facility shutdown. 
 
-**Context**:
+** Context **:
 Supervised ML CNRL Horizon Case: 
 Process: process acting abnormally, operator notes problem, identifies and confirms the problem, solves the problem, and makes record of it.
 Only a limited number of informed events available
@@ -48,7 +48,7 @@ Progressing toward a purely automated approach that recalibrates after an upset,
 **Client**: TransGlobe Energy
 
 ## Hydrogeologic Facies Model for Contaminant Plume Modelling
-**Client**:
+** Client **:
 
 ## Cloud Base Business Development Tool. 
 
