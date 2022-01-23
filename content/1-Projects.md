@@ -6,7 +6,8 @@ topics: variable frequency drives, Thought Leadership and Data Product Invention
 
 ## Thought Leadership and Data Product Invention, Planning, and Deployment
 Clients: Northern Miner, Mining Intelligence, CostMine
-Objective: Combine CostMine and Mining Intelligence data, invent new products, and migrate the products and users to a cloud based solution 
+Objective: Combine CostMine and Mining Intelligence data, invent new products, and migrate the products and users to a cloud based solution. 
+
 The Northern Miner started publication in 1915, and every week it publishes mining industry news, and data insights. The scope of the data includes 
 
 
