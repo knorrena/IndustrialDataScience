@@ -6,7 +6,10 @@ layout: default
 
 # <div align="center"> <font size="+5"> <b> Industrial Data Science Inc. <font></b></div> 
 
-Industrial Data Science constructs data science solutions that focus on engineering data in industrial settings. 
+Industrial Data Science constructs data science solutions that focus on engineering data in industrial settings:
+
+- Sensor data from processing and chemical facilities. 
+- 
   
 What
   
@@ -17,7 +20,7 @@ Here is how we helped others
 I have over 25 years of experience in industry as a We practice in oil and gas, environmental, and mining industries.
 
 
-  
+what about roi?
   
   
   
