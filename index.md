@@ -4,7 +4,7 @@ layout: default
 ---
 
 
-# <div align="center"> <font size="+5"> <b> Industrial Data Science Inc. <font></b></div> 
+Industrial Data Science Inc. 
 
 Industrial Data Science constructs data science solutions that focus on engineering data in industrial settings:
 
