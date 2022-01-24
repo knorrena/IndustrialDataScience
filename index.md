@@ -6,7 +6,17 @@ layout: default
 
 Industrial Data Science Inc. 
 
-Industrial Data Science constructs data science solutions that focus on engineering data in industrial settings:
+Industrial Data Science focuses on solving data science problems in natural resources industries, namely, the oil and gas, 
+mining, and environemntal industries. The data science problems in the natural resources industries have common interactive 
+features:
+
+- ** Spatial Data **: Natural resources data are distributed in space. Where GIS data is multilayered and 2D, natural resources is 
+multilayered and in 3D. In the oil and gas industry, porosity and permeability control
+storage and deliverability, and vary in space according the deposition environment. In the mining, ore grade varies in space according
+geologic processes, and in hydrogeology, contaminant plumes are driven by gravity, and percolation through geolologic media. 
+
+- ** Temporal Data **: 
+
 
 - Sensor data from processing and chemical facilities. 
 - 

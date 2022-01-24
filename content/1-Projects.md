@@ -1,15 +1,29 @@
 ---
 title: Projects
 nav: Projects
-topics: variable frequency drives, Thought Leadership and Data Product Invention, Planning, and Deployment
 ---
 
-## Thought Leadership and Data Product Invention, Planning, and Deployment
+Here at Industrial Data Science Inc. we cover a wide range of industries and prodject types.
+
+
+
+## Data Product Invention, Planning, Deployment, and Thought Leadership
 **Clients**: Northern Miner, Mining Intelligence, CostMine  
-**Objective**: Combine CostMine and Mining Intelligence data, invent new products, design product interface, migrate the products and users to a cloud based solution.  
+**Objective**: Combine CostMine and Mining Intelligence data, invent new products, design product interface, migrate the 
+products and users to a cloud based solution.  
 
 ** Context **:  
-The Northern Miner started publication in 1915, and every week it publishes mining industry news, and data insights using the data it collects. The scope of the data includes mining cost models, labor costs, electric development, equipment, power, energy, materials, reagents, smelting and liberation facilities, taxes, transportation, commodity pricing, and ESG modelling. The data is used for Business Development, Market Assessment, Project and Company Evaluation, Due Diligence, and Academic Research
+The Northern Miner has been publishing mining industry news since 1915. Since then it has collected data on all aspects of mining
+including mining cost models, labor costs, electric development, equipment, power, energy, materials, reagents, smelting and 
+liberation facilities, taxes, transportation, commodity pricing, and ESG modelling.  
+
+The data is used for Business Development, Market Assessment, Project and Company Evaluation, Due Diligence, and Academic Research.
+For the most part, the data is trapped in TIFFs (digital image of news print), MS Word documents, MS Excel, and SQL data bases. 
+To prevent data theft, the primary products delivered to clients are paper or pdf documents - limited or no access is permitted to 
+the data. The data products are also somewhat disconnected and also repeat over the three different platforms, and very little of it is 
+available on the cloud.
+
+The project included create structured from unstructured
 
 
 ## 90 Days Cumulative Gas to Liquids Ratio Production Forecaster 
