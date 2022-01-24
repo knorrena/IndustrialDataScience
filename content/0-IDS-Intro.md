@@ -1,6 +1,6 @@
 ---
 title: IDS Intro
-nav: About IDS
+nav: About
 topics: Data Science; Industrial Data
 ---
 

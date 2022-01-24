@@ -27,10 +27,10 @@ The project included create structured from unstructured
 
 
 ## 90 Days Cumulative Gas to Liquids Ratio Production Forecaster 
-**Clients**: Price Waterhouse and TAQA  
+**Clients** : Price Waterhouse and TAQA  
 **Objectives**: Use geologic models, reservoir engineering data, completions data, and production data to build a prediction model for development planning, budget building, and well location selection.  
 
-** Context **:  
+** Context ** :  
 Production prediction for budgeting, or motivating a new well program is difficult. The difficulty is becuase there more than 150 different features to consider when predicting how a new well might perform. Industrial Data Science designed, managed, and delivered a LGR IP90 prediction tool for TAQA and PWC. The project to identified drilling and completion practices that maximize probability of success on an unconventional asset. Over 1000 wells, and 150 features, and over 1000 wells. Constructed data model, and after the Gradient Boost based model interrogation, the effective feature set contained 16 essential features. Used an interactive Jupyter Notebooks as a deliverable for development planning.  
 
 
