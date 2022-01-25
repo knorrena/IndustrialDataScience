@@ -3,16 +3,12 @@ title: Projects
 nav: Projects
 ---
 
-Here at Industrial Data Science Inc. we cover a wide range of industries and prodject types.
-
-
-
 ## Data Product Invention, Planning, Deployment, and Thought Leadership
-**Clients**: Northern Miner, Mining Intelligence, CostMine  
-**Objective**: Combine CostMine and Mining Intelligence data, invent new products, design product interface, migrate the 
+** Clients ** : Northern Miner, Mining Intelligence, CostMine  
+** Objectie ** : Combine CostMine and Mining Intelligence data, invent new products, design product interface, migrate the 
 products and users to a cloud based solution.  
 
-**Context**:  
+** Context **:  
 The Northern Miner has been publishing mining industry news since 1915. Since then it has collected data on all aspects of mining
 including mining cost models, labor costs, electric development, equipment, power, energy, materials, reagents, smelting and 
 liberation facilities, taxes, transportation, commodity pricing, and ESG modelling.  

@@ -7,7 +7,7 @@ nav: Blog
 https://jekyllrb.com/docs/step-by-step/08-blogging/
 
 ## Blog Entries
-Blog  entries
+Special Topics in Data Science Applications in the Natural Resoureces Sciences
 
 <ul>
   {% for post in site.posts %}
