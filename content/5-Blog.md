@@ -11,7 +11,7 @@ https://jekyllrb.com/docs/step-by-step/08-blogging/
 ## Blog Entries
 Special Topics in Data Science Applications in the Natural Resources Sciences
 
-<h2>The Best Tool is {{ page.bestTool }}</h2>
+
 
 
 
