@@ -1,10 +1,9 @@
 ---
-title: Spatial Data and Mapping
-nav: Spatial Data
-topics: geostatistics and mapping
+title: Teaching
+nav: Teaching
+topics: Python and Data Science in the Natural Resources Industry
 ---
 
-## Data Science for the Geosciences
-Getting your butt out there
+## Data Science for the Geoscientists
 
-https://github.com/knorrena/Prod_Data_Study/blob/master/Volve_ProdData_Stdy.ipynb
+[Getting Started with Python](https://github.com/knorrena/Prod_Data_Study/blob/master/Volve_ProdData_Stdy.ipynb)

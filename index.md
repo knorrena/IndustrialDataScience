@@ -14,9 +14,10 @@ mining, and environemntal industries. We offer the following services:
 - **Geomodeling**: Geomodels of any complexity in almost any software, including Petrel, GoCad, GSLIB.
 - **Fluid Flow Simulation**: Fluids modelling and the flow of fluids in porous media in Eclipse 
 
-See the pro
+See the Teaching Section for a collection of Jupyter notebooks on Python and Data Science in the Natural Resources Industries
+See the Projects Section to review a sample of the projects that Industrial Data Science Inc. have completed.
 
-# Why 
+## Why 
 
 Industrial and natural resources data is bound by the laws of physics and chemistry. The collected data is limited by the 
 instruments used to sample and collect data. Machine learning tools and AI dont know these limits. They have to be knitted into 
