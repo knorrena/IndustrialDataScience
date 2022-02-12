@@ -9,33 +9,20 @@ layout: default
 Industrial Data Science focuses on solving data science problems in natural resources industries, namely, the oil and gas, 
 mining, and environemntal industries. We offer the following services:
 
-- **Geomodelling**: We build geomodels of any complexity in almost any software, including Petrel, GoCad, GSLIB.
-- **Flow Simulation**: We 
+- **Teaching and Technical Mentorship**: 
+- **Data Science**: Natural Resources Industry focused data science, data modelling, and machine learning. 
+- **Geomodeling**: Geomodels of any complexity in almost any software, including Petrel, GoCad, GSLIB.
+- **Fluid Flow Simulation**: Fluids modelling and the flow of fluids in porous media in Eclipse 
 
-# The Industrial Data Science Competitive Advantage
+See the pro
 
-What differentiates Industrial Data Science? In a word, Context. For over 25 years we simultaneously developed data science skills  
-and Natural Resources industry specific tradecraft. We understand the context of the data. From simple things like plausible data 
-limits, to equation of state models for reserovir fluids.  
+# Why 
 
-Natural Reserouces Industry has archetypical data and we understand it, its peculiarities, and its interactive features:
+Industrial and natural resources data is bound by the laws of physics and chemistry. The collected data is limited by the 
+instruments used to sample and collect data. Machine learning tools and AI dont know these limits. They have to be knitted into 
+the solution stitch by stich. Practitioners not raised in the oil and gas, mining, and environmental industries build models 
+and solutions that dont honor industrial quirks or science. 
 
-- **Spatial Data** : Natural resources data are distributed in space. Where GIS data is multilayered and 2D, natural resources is 
-multilayered and in 3D. In the oil and gas industry, the two key features the control hydrocarbon storage and deliverability are porosity and 
-permeability, and porosity and permeability vary in space. In the mining, ore grade varies in space according
-geologic processes, and in hydrogeology, contaminant plumes are driven by gravity, and percolation through geolologic media, which varies 
-in space. 
+At Industrial Data Science we built our tradcraft in the field. We build models that have context and utility. We build 
+tools and models that are easy to use, offer real world utility, and give our clients competitive advantage.
 
-- **Time Series Data**: Geologic data are static in that it does not change relative to the period of time we study it. What does change 
-are spatial distribution of fluids, and this data is called dynamic data. In hydrogeology, contiminant plumes percolate through porous 
-media and contaminant concentration varies in time and space. In oil and gas, there are three different fluids that are studied: oil, 
-water, and gas, water being the most important in some cases. Mining is also has time series data. Ore grade, hardness, and mass all 
-vary in time.
-
-At Industrial Data Science Inc., we have over 25 years of experience working with static and dynamic data in the natural resources 
-industry, and we specifically practice geomodelling and data science only in this domain. What 
-
-
-Our clients include CNRL, TAQA, 
-Transglobe Energy, Pembina Pipeline, PWC, The Daily Oil Bulletin, The Northerm Miner, Mining Intelligence, Imperial Oil, and Suncor. 
-We are located in Calgary Alberta, Canada, and were established in 2015.
