@@ -14,8 +14,8 @@ mining, and environemntal industries. We offer the following services:
 - **Geomodeling**: Geomodels of any complexity in almost any software, including Petrel, GoCad, GSLIB.
 - **Fluid Flow Simulation**: Fluids modelling and the flow of fluids in porous media in Eclipse 
 
-See the Teaching Section for a collection of Jupyter notebooks on Python and Data Science in the Natural Resources Industries
-See the Projects Section to review a sample of the projects that Industrial Data Science Inc. have completed.
+See the Teaching Section for a collection of Jupyter notebooks on Python and Data Science in the Natural Resources Industries.  
+See the Projects Section to review a sample of the projects that Industrial Data Science Inc. have completed.  
 
 ## Why 
 
