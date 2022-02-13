@@ -3,6 +3,9 @@ title: Reference & Resources
 nav: Resources
 ---
 
+- [Mastering Links in Jekyll](https://mademistakes.com/mastering-jekyll/how-to-link/)
+
+
 To learn about using `workshop-template-b`, the [Readme](https://github.com/evanwill/workshop-template-b/blob/master/README.md) and content pages have some documentation.
 
 Workshop sites using this template:
@@ -77,3 +80,11 @@ Jekyll lets you write SASS in modular chucks called partials, in the `_sass` dir
 [Another embed](https://thedatafrog.com/en/articles/jupyter-notebooks-web-pages/)
 
 [Another embed](https://github.com/cbernet/jupyter_web)
+
+### Blogs
+
+https://github.com/qrohlf/qrohlf.github.io
+
+https://jekyllrb.com/docs/step-by-step/08-blogging/
+
+https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jekyll-install-windows-example-blog-tutorial
