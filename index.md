@@ -18,7 +18,7 @@ and flow simulation.
 See the Teaching Section for a collection of Jupyter notebooks on Python and Data Science in the Natural Resources Industries.  
 See the Projects Section to review a sample of the projects that Industrial Data Science Inc. have completed.  
 
-# It's All About Data Context 
+## It's All About Data Context 
 
 Industrial and natural resources data is bound by the laws of physics and chemistry. The collected data is limited by the 
 instruments used to sample and collect data. Machine learning tools and AI dont know these limits. They have to be knitted into 
@@ -28,7 +28,7 @@ and solutions that dont honor industrial quirks or science.
 At Industrial Data Science we built our tradcraft in the field. We build models that have context and utility. We build 
 tools and models that are easy to use, offer real world utility, and give our clients competitive advantage.
 
-# What We Can Do For You
+## What We Can Do For You
 
 Some examples:
 
