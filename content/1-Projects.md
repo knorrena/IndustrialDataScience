@@ -1,6 +1,7 @@
 ---
 title: Projects
 nav: Projects
+layout: default
 ---
 
 The projects below are a high level scoping of some of the projects we have completed and are listed chronologically(ish).

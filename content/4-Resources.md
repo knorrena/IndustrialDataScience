@@ -1,5 +1,6 @@
 ---
 title: Reference & Resources
+layout: default
 nav: Resources
 ---
 

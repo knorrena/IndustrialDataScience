@@ -1,5 +1,6 @@
 ---
 title: Teaching
+layout: default
 nav: Teaching
 topics: Python and Data Science in the Natural Resources Industry
 ---
