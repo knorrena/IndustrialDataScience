@@ -84,6 +84,8 @@ Jekyll lets you write SASS in modular chucks called partials, in the `_sass` dir
 
 ### Blogs
 
+http://geologyandpython.com/
+
 https://github.com/qrohlf/qrohlf.github.io
 
 https://jekyllrb.com/docs/step-by-step/08-blogging/
