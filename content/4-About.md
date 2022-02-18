@@ -4,6 +4,8 @@ layout: default
 nav: About
 ---
 
+![image info](./content/karl.png)
+
 Professional experience with super majors including CNOOC/Nexen, CNRL, Encana, Equinor, Exxon, Glencore, and Total. 
 Worked assets in Canada, USA, France, England, Chad, South Africa, and Chile. Presented to dignitaries in Chad, Egypt, 
 and U.K.; top executives at CNOOC, Total, and Glencore; various scholars, a wide scope of professionals, and the public. 
