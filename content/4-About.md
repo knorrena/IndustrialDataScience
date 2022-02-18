@@ -4,7 +4,7 @@ layout: default
 nav: About
 ---
 
-![image info](./content/karl.png)
+![Karl Norrena, Ph.D, MP., P.Eng](karl.png)
 
 Professional experience with super majors including CNOOC/Nexen, CNRL, Encana, Equinor, Exxon, Glencore, and Total. 
 Worked assets in Canada, USA, France, England, Chad, South Africa, and Chile. Presented to dignitaries in Chad, Egypt, 
