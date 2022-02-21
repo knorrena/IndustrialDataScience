@@ -7,7 +7,7 @@ layout: default
 # Industrial Data Science Inc. 
 
 Industrial Data Science focuses on solving data science problems in natural resources industries, namely, the oil and gas, 
-mining, and environemntal industries. We offer the following services:
+mining, and environmental industries. We offer the following services:
 
 - **Teaching and Thought Leadership**: Programming and data science skills for the natural resources industry, geomodelling, 
 and flow simulation.  
