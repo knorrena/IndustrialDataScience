@@ -93,3 +93,5 @@ https://jekyllrb.com/docs/step-by-step/08-blogging/
 https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/jekyll-install-windows-example-blog-tutorial
 
 https://agilescientific.com/blog/tag/well+data
+
+https://frombitumentobinary.com/

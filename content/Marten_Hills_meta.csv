@@ -1,0 +1,1018 @@
+UWI,Well Type (Simple),Field,Pool,Formation,Status (Detailed),Status (Simple),Total Depth (TD),Total Vertical Depth (TVD),Surface Longitude,Surface Latitude,Estimated LLR (Well)
+100112607323W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,636.5,636.5,-113.43127,55.352564,0
+100093107324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,565,565,-113.679664,55.369891,0
+100113207324W400,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,599,599,-113.665375,55.366968,0
+100113207324W402,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,599,599,-113.665375,55.366968,0
+100113207324W403,Bitumen,Marten Hills,Clearwater Undefined,McMurray,Pumping,Active,599,599,-113.665375,55.366968,0.79
+100011607325W400,Gas,Marten Hills,Clearwater Undefined,Wabamun,Suspended,Suspended,594,588.76,-113.776619,55.318591,0
+100011607325W402,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,594,588.76,-113.776619,55.318591,0
+100011607325W403,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,594,588.76,-113.776619,55.318591,0
+100011607325W404,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,594,588.76,-113.776619,55.318591,0
+100122207325W400,Gas,Marten Hills,Wabiskaw CC,Paleozoic,Flowing,Active,621,621,-113.769683,55.337387,3.44
+100122207325W402,Unspecified,Marten Hills,Unspecified,Paleozoic,Drilled And Cased,Standing Cased,621,621,-113.769683,55.337387,0
+100122207325W403,Unspecified,Marten Hills,Unspecified,Paleozoic,Drilled And Cased,Standing Cased,621,621,-113.769683,55.337387,0
+100153107325W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,642.3,605.39,-113.836738,55.373365,0
+100153107325W402,Gas,Marten Hills,Grand Rapids KK,Wabiskaw,Flowing,Active,642.3,605.39,-113.836738,55.373365,0
+100053407325W400,Gas,Marten Hills,Commingled Pool 024,Wabiskaw,Suspended,Suspended,602,602,-113.769758,55.363911,0
+100053407325W402,Gas,Marten Hills,Commingled Pool 024,Wabiskaw,Suspended,Suspended,602,602,-113.769758,55.363911,0
+102053407325W400,Gas,Marten Hills,Commingled Pool 014,Wabiskaw,Suspended,Suspended,489,489,-113.769879,55.363864,0
+102053407325W402,Gas,Marten Hills,Commingled Pool 013,Wabiskaw,Suspended,Suspended,489,489,-113.769879,55.363864,0
+100153407325W400,Gas,Marten Hills,Wabiskaw O,Unspecified,Suspended,Suspended,652,652,-113.757386,55.370396,0
+100083507325W400,Gas,Marten Hills,Commingled Pool 024,Wabiskaw,Suspended,Suspended,579,579,-113.727944,55.365779,0
+100083507325W402,Gas,Marten Hills,Commingled Pool 024,Wabiskaw,Flowing,Active,579,579,-113.727944,55.365779,0.73
+102083507325W400,Gas,Marten Hills,Commingled Pool 012,Wabiskaw,Suspended,Suspended,576,576,-113.728179,55.365791,0
+102083507325W402,Gas,Marten Hills,Commingled Pool 011,Wabiskaw,Suspended,Suspended,576,576,-113.728179,55.365791,0
+100113507326W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,615.7,615.7,-113.893575,55.367838,0
+100012607301W500,Disposal - Water,Marten Hills,Wabiskaw Undefined,Wabamun,Suspended,Suspended,624,624,-114.029075,55.347729,0
+100083607301W500,Gas,Marten Hills,Grand Rapids E7E,Wabamun,Suspended,Suspended,630,630,-114.002119,55.365919,0
+100083607301W502,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,630,630,-114.002119,55.365919,0
+100150607423W400,Gas,Marten Hills,Commingled Pool 023,Wabamun,Suspended,Suspended,602,602,-113.530654,55.386959,0
+100150607423W402,Gas,Marten Hills,Commingled Pool 023,Wabamun,Flowing,Active,602,602,-113.530654,55.386959,1.86
+102150607423W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,549.5,549.5,-113.531138,55.386169,0
+102150607423W402,Gas,Marten Hills,Commingled Pool 023,Wabiskaw,Flowing,Active,549.5,549.5,-113.531138,55.386169,0.04
+100150707423W400,Gas,Marten Hills,Commingled Pool 023,Wabamun,Suspended,Suspended,597,578.97,-113.527713,55.4016,0
+100150707423W402,Gas,Marten Hills,Clearwater Undefined,Wabamun,Suspended,Suspended,597,578.97,-113.527713,55.4016,0
+102150707423W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,668,544.77,-113.529724,55.401425,3.85
+100121807423W400,Gas,Marten Hills,Commingled Pool 023,Wabamun,Suspended,Suspended,642,570.45,-113.547812,55.41154,0
+100121807423W402,Gas,Marten Hills,Commingled Pool 023,Wabamun,Suspended,Suspended,642,570.45,-113.547812,55.41154,0
+100132107423W400,Disposal - Water,Marten Hills,Commingled Pool 001,McMurray,Suspended,Suspended,644,644,-113.488696,55.428244,0
+100112807423W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,638.6,638.6,-113.482195,55.441485,0
+100112807423W402,Gas,Marten Hills,Clearwater Undefined,Unspecified,Suspended,Suspended,638.6,638.6,-113.482195,55.441485,0
+100122907423W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,632,632,-113.518126,55.442294,0
+100122907423W402,Gas,Marten Hills,Commingled Pool 023,Wabamun,Flowing,Active,632,632,-113.518126,55.442294,6.64
+100122907423W403,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,632,632,-113.518126,55.442294,0
+100133007423W403,Gas,Marten Hills,Commingled Pool 023,Wabamun,Flowing,Active,627.5,627.5,-113.540624,55.443412,3.98
+100103107423W402,Gas,Marten Hills,Commingled Pool 023,Unspecified,Suspended,Suspended,630.9,630.9,-113.529006,55.455363,0
+100103107423W403,Unspecified,Marten Hills,Unspecified,Unspecified,Drilled And Cased,Standing Cased,630.9,630.9,-113.529006,55.455363,0
+102103107423W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,633,633,-113.529111,55.455388,0
+102103107423W402,Gas,Marten Hills,Commingled Pool 023,Wabamun,Suspended,Suspended,633,633,-113.529111,55.455388,0
+100123207423W400,Gas,Marten Hills,Commingled Pool 023,Wabamun,Suspended,Suspended,629.6,629.6,-113.518377,55.453621,0
+100123207423W402,Gas,Marten Hills,Commingled Pool 023,Wabamun,Flowing,Active,629.6,629.6,-113.518377,55.453621,4.07
+102123207423W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,733,623.12,-113.518385,55.452596,9.16
+100113307423W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,697,649.79,-113.484696,55.453736,0
+100110107424W400,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,601.6,542.48,-113.560929,55.382149,0
+100110107424W402,Gas,Marten Hills,Colony Undefined,Wabiskaw,Suspended,Suspended,601.6,542.48,-113.560929,55.382149,0
+100110107424W403,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,601.6,542.48,-113.560929,55.382149,0
+100090407424W403,Gas,Marten Hills,Commingled Pool 026,Wabamun,Flowing,Active,583,583,-113.62395,55.38341,0.43
+100090407424W404,Gas,Marten Hills,Grand Rapids B4B,Wabamun,Flowing,Active,583,583,-113.62395,55.38341,3.09
+102090407424W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,578,578,-113.624203,55.383394,0
+102090407424W402,Gas,Marten Hills,Commingled Pool 026,Wabamun,Suspended,Suspended,578,578,-113.624203,55.383394,0
+102090407424W403,Gas,Marten Hills,Commingled Pool 026,Wabamun,Flowing,Active,578,578,-113.624203,55.383394,0.14
+102090407424W404,Gas,Marten Hills,Grand Rapids B4B,Wabamun,Suspended,Suspended,578,578,-113.624203,55.383394,0
+100120607424W400,Gas,Marten Hills,Commingled Pool 024,McMurray,Suspended,Suspended,611.5,611.5,-113.694497,55.382792,0
+100120607424W402,Gas,Marten Hills,Commingled Pool 015,McMurray,Suspended,Suspended,611.5,611.5,-113.694497,55.382792,0
+100120607424W403,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,611.5,611.5,-113.694497,55.382792,0
+100120607424W404,Gas,Marten Hills,Clearwater D2D,McMurray,Flowing,Active,611.5,611.5,-113.694497,55.382792,8.15
+100100907424W402,Gas,Marten Hills,Grand Rapids P2P,Wabamun,Suspended,Suspended,596,596,-113.629435,55.397964,0
+102100907424W404,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,664,566.73,-113.630888,55.397722,0
+102100907424W405,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,664,566.73,-113.630888,55.397722,0
+102100907424W406,Gas,Marten Hills,Viking M,Wabiskaw,Flowing,Active,664,566.73,-113.630888,55.397722,0.11
+100091107424W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,549.6,549.6,-113.575762,55.397908,0
+102091107424W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,643,544.43,-113.578146,55.397893,4.38
+100101307424W400,Unspecified,Marten Hills,Unspecified,Unspecified,Drilled And Cased,Standing Cased,597.4,597.4,-113.554676,55.411706,0
+100101307424W402,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,597.4,597.4,-113.554676,55.411706,10.84
+100071407424W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Pumping,Active,589,589,-113.581137,55.408087,4.05
+100121607424W400,Gas,Marten Hills,Commingled Pool 026,Wabamun,Suspended,Suspended,631,631,-113.64377,55.412178,0
+100121607424W402,Gas,Marten Hills,Commingled Pool 026,Wabamun,Suspended,Suspended,631,631,-113.64377,55.412178,0
+102121607424W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,594.8,594.8,-113.643776,55.411435,0
+100162007424W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,615,615,-113.652669,55.428909,0.6
+100162107424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,585.2,585.2,-113.62393,55.430057,2.41
+100062207424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,614.8,614.8,-113.612298,55.423005,5.39
+100092207424W400,Gas,Marten Hills,Grand Rapids C4C,Mannville,Pumping,Active,486,486,-113.601055,55.424709,0.09
+100042307424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,636.4,636.4,-113.593758,55.420545,0
+100042307424W402,Disposal - Water,Marten Hills,Commingled Pool 001,Unspecified,Not Applicable,Active,636.4,636.4,-113.593758,55.420545,0
+100042407424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,609.1,609.1,-113.566076,55.419352,0
+100042507424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,619,619,-113.566795,55.433987,2.27
+100152507424W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,517,517,-113.553712,55.443491,0
+100152507424W402,Gas,Marten Hills,Colony Undefined,Wabamun,Suspended,Suspended,517,517,-113.553712,55.443491,0
+100042607424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,587.7,587.7,-113.593409,55.434103,3.59
+100062707424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,602,602,-113.613808,55.436434,2.91
+100102807424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,615.1,615.1,-113.630992,55.440587,6.97
+100092907424W400,Unspecified,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,475,475,-113.651067,55.439851,0
+100162907424W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,605,605,-113.652685,55.443359,0.05
+100013007424W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,616.3,616.3,-113.67585,55.434087,0
+100013007424W402,Gas,Marten Hills,Commingled Pool 001,Wabamun,Flowing,Active,616.3,616.3,-113.67585,55.434087,1.15
+100013007424W403,Gas,Marten Hills,Clearwater Undefined,Wabamun,Suspended,Suspended,616.3,616.3,-113.67585,55.434087,0
+100103207424W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,623.9,623.9,-113.656992,55.455556,0
+100103207424W402,Gas,Marten Hills,Clearwater Undefined,Unspecified,Suspended,Suspended,623.9,623.9,-113.656992,55.455556,0
+100103207424W403,Gas,Marten Hills,Commingled Pool 026,Unspecified,Flowing,Active,623.9,623.9,-113.656992,55.455556,0.63
+100143207424W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,610,610,-113.661147,55.457935,0
+100143207424W402,Gas,Marten Hills,Commingled Pool 026,Wabamun,Suspended,Suspended,610,610,-113.661147,55.457935,0
+102143207424W400,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,593.8,593.8,-113.661581,55.457935,0
+102143207424W402,Gas,Marten Hills,Commingled Pool 026,Wabiskaw,Suspended,Suspended,593.8,593.8,-113.661581,55.457935,0
+102143207424W403,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,593.8,593.8,-113.661581,55.457935,0
+100073307424W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Flowing,Active,611,611,-113.631536,55.451926,2.59
+100103407424W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,608,608,-113.607534,55.455423,0
+100103407424W402,Gas,Marten Hills,Grand Rapids M2M,Wabamun,Suspended,Suspended,608,608,-113.607534,55.455423,0
+102103407424W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,659,583.53,-113.605669,55.455441,5.77
+100033507424W400,Gas,Marten Hills,Commingled Pool 023,Wabamun,Suspended,Suspended,625,625,-113.586357,55.448542,0
+100033507424W402,Gas,Marten Hills,Commingled Pool 008,Wabamun,Flowing,Active,625,625,-113.586357,55.448542,1.76
+100033507424W403,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,625,625,-113.586357,55.448542,0
+102033507424W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,591,591,-113.586069,55.448542,0
+100103607424W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Flowing,Active,606,606,-113.552338,55.453888,0.27
+100103607424W402,Gas,Marten Hills,Commingled Pool 023,Wabamun,Suspended,Suspended,606,606,-113.552338,55.453888,0
+100130407425W400,Gas,Marten Hills,Commingled Pool 024,Wabamun,Suspended,Suspended,594,594,-113.800777,55.386319,0
+100130407425W402,Gas,Marten Hills,Commingled Pool 024,Wabamun,Suspended,Suspended,594,594,-113.800777,55.386319,0
+100110507425W402,Gas,Marten Hills,Grand Rapids Undefined,Unspecified,Suspended,Suspended,595.9,595.9,-113.817499,55.383019,0
+100020607425W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,609,609,-113.83671,55.3767,0
+100020607425W402,Gas,Marten Hills,Grand Rapids KK,Wabiskaw,Suspended,Suspended,609,609,-113.83671,55.3767,0
+100020607425W403,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,609,609,-113.83671,55.3767,0
+100020807425W402,Gas,Marten Hills,Commingled Pool 024,Wabamun,Suspended,Suspended,584.6,584.6,-113.811549,55.390998,0
+100050907425W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,583.5,583.5,-113.797425,55.395109,0
+100050907425W402,Gas,Marten Hills,Commingled Pool 024,Wabamun,Suspended,Suspended,583.5,583.5,-113.797425,55.395109,0
+100081707425W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,601,601,-113.803957,55.406429,0
+100161807425W403,Gas,Marten Hills,Commingled Pool 009,Wabamun,Suspended,Suspended,619.5,619.5,-113.832169,55.416269,0
+102161807425W400,Gas,Marten Hills,Commingled Pool 024,Wabiskaw,Suspended,Suspended,617,617,-113.832256,55.416512,0
+102161807425W402,Gas,Marten Hills,Commingled Pool 009,Wabiskaw,Suspended,Suspended,617,617,-113.832256,55.416512,0
+103161807425W400,Bitumen,Marten Hills,Clearwater Undefined,Wabiskaw,Suspended,Suspended,620,620,-113.831971,55.416412,0
+100112907425W402,Gas,Marten Hills,Commingled Pool 024,Unspecified,Flowing,Active,623.3,623.3,-113.817327,55.440918,1.73
+102112907425W400,Gas,Marten Hills,Commingled Pool 024,Unspecified,Suspended,Suspended,600,600,-113.818328,55.44257,0
+102112907425W402,Gas,Marten Hills,Commingled Pool 024,Unspecified,Suspended,Suspended,600,600,-113.818328,55.44257,0
+100023007425W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,663,663,-113.83465,55.43446,0
+100023007425W402,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,663,663,-113.83465,55.43446,0
+100113007425W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,659.3,659.3,-113.846163,55.44248,0
+100133107425W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Suspended,Suspended,620,620,-113.846206,55.458183,0
+100063207425W403,Gas,Marten Hills,Commingled Pool 024,Unspecified,Suspended,Suspended,611,611,-113.819236,55.451298,0
+100063207425W404,Gas,Marten Hills,Commingled Pool 024,Unspecified,Suspended,Suspended,611,611,-113.819236,55.451298,0
+100143207425W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,617,617,-113.817921,55.457462,0
+100070207426W400,Gas,Marten Hills,Clearwater CC,Mannville,Suspended,Suspended,599,599,-113.888178,55.379515,0
+100070207426W402,Gas,Marten Hills,Commingled Pool 009,Mannville,Suspended,Suspended,599,599,-113.888178,55.379515,0
+102070207426W400,Gas,Marten Hills,Commingled Pool 001,McMurray,Suspended,Suspended,586,586,-113.890107,55.37938,0
+100040507426W402,Gas,Marten Hills,Grand Rapids Undefined,Wabamun,Suspended,Suspended,639,639,-113.974778,55.375161,0
+100091107426W400,Gas,Marten Hills,Grand Rapids OOO,Mannville,Suspended,Suspended,657,607.54,-113.887802,55.396903,0
+100091107426W402,Gas,Marten Hills,Commingled Pool 009,Mannville,Suspended,Suspended,657,607.54,-113.887802,55.396903,0
+100121207426W400,Gas,Marten Hills,Grand Rapids OOO,Mannville,Suspended,Suspended,598,598,-113.872923,55.398977,0
+100121207426W402,Gas,Marten Hills,Grand Rapids W3W,Mannville,Suspended,Suspended,598,598,-113.872923,55.398977,0
+100021307426W403,Gas,Marten Hills,Clearwater Undefined,Mannville,Suspended,Suspended,611.5,611.5,-113.861849,55.403438,0
+100061907426W400,Gas,Marten Hills,Wabiskaw TT,Wabamun,Suspended,Suspended,714,714,-113.99791,55.421824,0
+100132007426W400,Gas,Marten Hills,Wabiskaw Undefined,Wabamun,Suspended,Suspended,690,672.01,-113.978224,55.430432,0
+100162507426W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,672,672,-113.859017,55.44275,0
+100122707426W405,Gas,Marten Hills,Grand Rapids J2J,Mannville,Suspended,Suspended,785,785,-113.925011,55.442021,0
+100122707426W407,Gas,Marten Hills,Grand Rapids X3X,Mannville,Suspended,Suspended,785,785,-113.925011,55.442021,0
+100122707426W408,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,785,785,-113.925011,55.442021,0
+100103607426W400,Gas,Marten Hills,Grand Rapids LL,Mannville,Suspended,Suspended,634,634,-113.863594,55.456155,0
+100163607426W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,1221,589.71,-113.864424,55.453908,0.18
+100160307401W500,Gas,Marten Hills,Commingled Pool 017,Wabamun,Suspended,Suspended,652,652,-114.058417,55.387592,0
+100121007401W503,Gas,Marten Hills,Commingled Pool 017,Wabiskaw,Suspended,Suspended,644,644,-114.078712,55.398166,0
+100111307401W500,Gas,Marten Hills,Commingled Pool 033,Wabamun,Suspended,Suspended,718,718,-114.01982,55.412993,0
+100072407401W500,Gas,Marten Hills,Commingled Pool 033,Wabamun,Suspended,Suspended,727,688.77,-114.009862,55.421944,0
+100140507402W500,Gas,Marten Hills,Grand Rapids JJJ,Wabamun,Suspended,Suspended,652,652,-114.274393,55.385838,0
+100140507402W502,Gas,Marten Hills,Wabiskaw Undefined,Wabamun,Suspended,Suspended,652,652,-114.274393,55.385838,0
+100121207402W500,Gas,Marten Hills,Wabiskaw RR,Mannville,Suspended,Suspended,606,606,-114.178103,55.396996,0
+100131607402W500,Gas,Marten Hills,Wabiskaw J,Wabamun,Suspended,Suspended,619,613.99,-114.253848,55.415028,0
+100131607402W502,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,619,613.99,-114.253848,55.415028,0
+100131607402W503,Gas,Marten Hills,Grand Rapids X,Wabamun,Suspended,Suspended,619,613.99,-114.253848,55.415028,0
+100121907402W500,Gas,Marten Hills,Wabiskaw N,Mannville,Flowing,Active,670,670,-114.303257,55.426868,0
+100061307403W502,Gas,Marten Hills,Commingled Pool 018,Mannville,Test Completed,Testing,670,670,-114.324156,55.408075,0
+100061307403W503,Gas,Marten Hills,Commingled Pool 018,Mannville,Suspended,Suspended,670,670,-114.324156,55.408075,0
+100112707403W500,Gas,Marten Hills,Colony Undefined,Mannville,Suspended,Suspended,679,679,-114.37544,55.440175,0
+100153307403W500,Gas,Marten Hills,Grand Rapids J4J,Mannville,Suspended,Suspended,696,696,-114.397749,55.460546,0
+100033007522W400,Gas,Marten Hills,Commingled Pool 003,Wabamun,Suspended,Suspended,628,628,-113.414451,55.522184,0
+100033007522W402,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,628,628,-113.414451,55.522184,0
+100033007522W403,Gas,Marten Hills,Commingled Pool 031,Wabamun,Suspended,Suspended,628,628,-113.414451,55.522184,0
+100153407522W400,Gas,Marten Hills,Grand Rapids Z4Z,Nisku,Suspended,Suspended,622,622,-113.327993,55.545264,0
+100053507522W400,Gas,Marten Hills,Grand Rapids Z4Z,Mannville,Suspended,Suspended,624,624,-113.313077,55.540655,0
+100020507523W400,Gas,Marten Hills,Commingled Pool 023,Mannville,Suspended,Suspended,632,632,-113.532451,55.463822,0
+100020507523W402,Gas,Marten Hills,Grand Rapids Undefined,Mannville,Suspended,Suspended,632,632,-113.532451,55.463822,0
+100040507523W400,Gas,Marten Hills,Commingled Pool 001,McMurray,Flowing,Active,619,619,-113.545151,55.464112,5.5
+100040507523W402,Gas,Marten Hills,Commingled Pool 008,McMurray,Suspended,Suspended,619,619,-113.545151,55.464112,0
+100050607523W400,Gas,Marten Hills,Commingled Pool 001,McMurray,Pumping,Active,601,601,-113.570529,55.465896,6.65
+100050707523W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,610,610,-113.571452,55.481534,0
+100070807523W400,Gas,Marten Hills,Grand Rapids Undefined,Grand Rapids,Suspended,Suspended,587,481.24,-113.540218,55.479664,0
+102030907523W400,Unspecified,Marten Hills,Unspecified,Grand Rapids,Drilled And Cased,Standing Cased,476,476,-113.516313,55.478539,0
+100141407523W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,603,603,-113.462212,55.501667,0
+100111807523W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,621.5,621.5,-113.569729,55.497642,0
+100111807523W402,Gas,Marten Hills,Sparky Undefined,Unspecified,Suspended,Suspended,621.5,621.5,-113.569729,55.497642,0
+100041907523W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Pumping,Active,610,610,-113.5705,55.50775,4.59
+100112507523W400,Gas,Marten Hills,Commingled Pool 031,Wabamun,Suspended,Suspended,618,618,-113.438349,55.526333,0
+100112507523W402,Gas,Marten Hills,Clearwater K2K,Wabamun,Suspended,Suspended,618,618,-113.438349,55.526333,0
+100032607523W400,Gas,Marten Hills,Commingled Pool 003,Wabamun,Suspended,Suspended,610,610,-113.464604,55.520935,0
+100032607523W402,Gas,Marten Hills,Commingled Pool 031,Wabamun,Suspended,Suspended,610,610,-113.464604,55.520935,0
+100082707523W400,Gas,Marten Hills,Clearwater K2K,Wabamun,Suspended,Suspended,626,626,-113.478227,55.524986,0
+100082707523W402,Gas,Marten Hills,Commingled Pool 031,Wabamun,Suspended,Suspended,626,626,-113.478227,55.524986,0
+100082807523W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,639,639,-113.50437,55.523446,0
+100082807523W402,Gas,Marten Hills,Clearwater Undefined,Mannville,Suspended,Suspended,639,639,-113.50437,55.523446,0
+100093207523W403,Gas,Marten Hills,Grand Rapids S6S,Wabamun,Suspended,Suspended,665,665,-113.525714,55.542413,0
+100063507523W400,Gas,Marten Hills,Clearwater K2K,Wabamun,Suspended,Suspended,618,618,-113.460588,55.540466,0
+100063507523W402,Gas,Marten Hills,Commingled Pool 031,Wabamun,Suspended,Suspended,618,618,-113.460588,55.540466,0
+100070107524W402,Disposal - Water,Marten Hills,Wabamun Undefined,Wabamun,Suspended,Suspended,626.5,626.5,-113.583734,55.465155,0
+100070207524W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,623.3,623.3,-113.612191,55.466152,0.18
+100070307524W400,Gas,Marten Hills,Commingled Pool 001,McMurray,Pumping,Active,645,645,-113.639134,55.466332,4.68
+102070307524W400,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,647.5,647.5,-113.639252,55.466205,0
+100060407524W402,Gas,Marten Hills,Commingled Pool 026,Unspecified,Suspended,Suspended,640.4,640.4,-113.670461,55.466447,0
+100110707524W400,Gas,Marten Hills,Clearwater Undefined,Wabiskaw,Suspended,Suspended,655,655,-113.722934,55.484095,0
+100100807524W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,673,673,-113.691786,55.484035,0
+100100807524W402,Gas,Marten Hills,Commingled Pool 026,Wabiskaw,Suspended,Suspended,673,673,-113.691786,55.484035,0
+100120807524W400,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,674,674,-113.704996,55.483819,0
+100120807524W402,Gas,Marten Hills,Commingled Pool 026,Wabiskaw,Suspended,Suspended,674,674,-113.704996,55.483819,0
+100101007524W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Pumping,Active,630,630,-113.639035,55.484259,4.68
+100061107524W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,637,637,-113.615751,55.48251,5.04
+100121207524W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,627,627,-113.601994,55.484425,5.34
+100101307524W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,607,607,-113.588598,55.497252,0
+100091407524W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,613,613,-113.607863,55.49756,0
+100121507524W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,626,626,-113.65113,55.497446,1.28
+100091607524W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,635.9,635.9,-113.655836,55.497432,4.79
+100121607524W400,Gas,Marten Hills,Clearwater Sand Undefined,Mannville,Testing,Testing,641,641,-113.679862,55.497295,0
+100121607524W402,Gas,Marten Hills,Grand Rapids I4I,Mannville,Suspended,Suspended,641,641,-113.679862,55.497295,0
+100041907524W400,Gas,Marten Hills,Commingled Pool 026,Mannville,Suspended,Suspended,656,656,-113.726811,55.506563,0
+100041907524W402,Gas,Marten Hills,Grand Rapids B2B,Mannville,Suspended,Suspended,656,656,-113.726811,55.506563,0
+100082107524W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,622.5,622.5,-113.655344,55.51033,2.65
+100072207524W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,689.8,689.8,-113.63772,55.509932,7.75
+100142207524W403,Gas,Marten Hills,Grand Rapids X6X,Mannville,Suspended,Suspended,654,654,-113.645996,55.516559,0
+100012407524W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,615,615,-113.581893,55.507332,0
+100112607524W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,715,666.91,-113.617408,55.526608,0
+100112607524W402,Gas,Marten Hills,Wabiskaw V,Wabamun,Flowing,Active,715,666.91,-113.617408,55.526608,12.48
+100142607524W400,Gas,Marten Hills,McMurray I,Mannville,Suspended,Suspended,665,665,-113.621853,55.533448,0
+100052707524W400,Gas,Marten Hills,Mannville Undefined,Mannville,Suspended,Suspended,665,665,-113.652725,55.524717,0
+100052707524W402,Gas,Marten Hills,Sparky Undefined,Mannville,Suspended,Suspended,665,665,-113.652725,55.524717,0
+100052707524W403,Gas,Marten Hills,Grand Rapids Undefined,Mannville,Suspended,Suspended,665,665,-113.652725,55.524717,0
+100053207524W402,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,753.5,753.5,-113.705637,55.54044,0
+100163407524W400,Gas,Marten Hills,McMurray I,Wabamun,Suspended,Suspended,708,708,-113.633789,55.546327,0
+100163407524W402,Gas,Marten Hills,Clearwater Undefined,Wabamun,Test Completed,Testing,708,708,-113.633789,55.546327,0
+100063507524W402,Gas,Marten Hills,Grand Rapids W6W,Wabamun,Suspended,Suspended,678,678,-113.6156,55.540646,0
+100073507524W400,Gas,Marten Hills,Wabiskaw V,Mannville,Suspended,Suspended,661,661,-113.60987,55.54073,0
+100113607524W400,Gas,Marten Hills,Wabiskaw V,Mannville,Suspended,Suspended,662,662,-113.591475,55.54114,0
+100113607524W402,Gas,Marten Hills,Commingled Pool 028,Mannville,Suspended,Suspended,662,662,-113.591475,55.54114,0
+102113607524W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,677,677,-113.59086,55.54293,0
+100130407525W402,Disposal - Water,Marten Hills,Colony Undefined,Mannville,Not Applicable,Active,610,610,-113.830135,55.475037,0
+100050507525W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Suspended,Suspended,616,616,-113.857028,55.465797,0
+100090507525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,621,594.86,-113.842565,55.47327,0
+100070607525W400,Gas,Marten Hills,Grand Rapids D6D,Mannville,Suspended,Suspended,646.5,646.5,-113.872212,55.4654,0
+100070607525W403,Gas,Marten Hills,Clearwater Undefined,Mannville,Suspended,Suspended,646.5,646.5,-113.872212,55.4654,0
+100160607525W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Suspended,Suspended,644,644,-113.867681,55.471833,0
+100090707525W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Suspended,Suspended,621,621,-113.866185,55.484671,0
+100050807525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,608.5,602.25,-113.85412,55.478403,0
+100100807525W400,Gas,Marten Hills,Grand Rapids EEE,Mannville,Suspended,Suspended,605,605,-113.844618,55.484444,0
+102100807525W400,Bitumen,Marten Hills,Lower Grand Rapids,Mannville,Suspended,Suspended,595,595,-113.84533,55.484444,0
+100021707525W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,617.2,617.2,-113.845192,55.491852,16.62
+100061707525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,607,607,-113.854714,55.493662,0
+100101707525W400,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,612,612,-113.843373,55.499943,0
+100101707525W402,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,612,612,-113.843373,55.499943,0
+100101707525W403,Gas,Marten Hills,Grand Rapids RRR,Mannville,Suspended,Suspended,612,612,-113.843373,55.499943,0
+100051807525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,641,629.38,-113.880114,55.492678,0
+100011907525W400,Gas,Marten Hills,Grand Rapids LLL,Wabamun,Suspended,Suspended,630.2,630.2,-113.864769,55.505088,0
+100011907525W402,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,630.2,630.2,-113.864769,55.505088,0
+100101907525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,690,626.26,-113.863826,55.515784,0
+100042007525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,603,603,-113.854926,55.508041,0
+100122007525W400,Gas,Marten Hills,Commingled Pool 001,McMurray,Flowing,Active,635,635,-113.854918,55.51481,5.18
+100062107525W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,666,666,-113.825741,55.509915,8.8
+100112207525W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,657.5,657.5,-113.80002,55.513531,0.03
+100052707525W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Flowing,Active,656,656,-113.804664,55.524768,8.71
+100122707525W400,Gas,Marten Hills,Clearwater J,Mannville,Suspended,Suspended,670,670,-113.804349,55.529721,0
+100162707525W400,Gas,Marten Hills,Clearwater J,Mannville,Suspended,Suspended,704,704,-113.78801,55.531501,0
+100162707525W402,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,704,704,-113.78801,55.531501,0
+100162707525W403,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,704,704,-113.78801,55.531501,0
+100032807525W400,Unspecified,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,1417,633.19,-113.81504,55.525701,0
+100082807525W400,Gas,Marten Hills,Clearwater J,Mannville,Suspended,Suspended,655,655,-113.814727,55.525704,0
+100082807525W402,Gas,Marten Hills,Commingled Pool 007,Mannville,Suspended,Suspended,655,655,-113.814727,55.525704,0
+100082807525W403,Gas,Marten Hills,Clearwater Undefined,Mannville,Suspended,Suspended,655,655,-113.814727,55.525704,0
+100033007525W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Suspended,Suspended,1445,613.81,-113.864436,55.526124,0
+100083007525W400,Bitumen,Marten Hills,Clearwater Undefined,Mannville,Suspended,Suspended,639.8,622.88,-113.865389,55.526134,0
+100093107525W400,Gas,Marten Hills,Commingled Pool 029,Mannville,Flowing,Active,665,665,-113.866473,55.542024,1.24
+100093107525W402,Gas,Marten Hills,Grand Rapids V,Mannville,Suspended,Suspended,665,665,-113.866473,55.542024,0
+100113207525W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,666.9,666.9,-113.851617,55.542611,1.19
+102113207525W402,Gas,Marten Hills,Grand Rapids S3S,Clearwater,Suspended,Suspended,606,606,-113.851508,55.542746,0
+100093407525W403,Gas,Marten Hills,Grand Rapids P4P,Mannville,Suspended,Suspended,742,742,-113.786818,55.54208,0
+100103507525W400,Gas,Marten Hills,Clearwater J,Mannville,Suspended,Suspended,746,746,-113.770755,55.540984,0
+100103507525W402,Gas,Marten Hills,Grand Rapids C7C,Mannville,Suspended,Suspended,746,746,-113.770755,55.540984,0
+100082007526W400,Gas,Marten Hills,Commingled Pool 022,Clearwater,Suspended,Suspended,755,755,-113.995881,55.511864,0
+100062107526W400,Gas,Marten Hills,Commingled Pool 022,Clearwater,Suspended,Suspended,744,744,-113.978447,55.511872,0
+100062107526W402,Unspecified,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,744,744,-113.978447,55.511872,0
+100112107526W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,787,787,-113.980999,55.513854,0
+100032607526W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,Wabiskaw,Suspended,Suspended,814,806.82,-113.933905,55.522855,0
+102102607526W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,782,782,-113.925516,55.527146,0
+100132607526W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,817,778.6,-113.933874,55.528158,0
+100062707526W400,Bitumen,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,824.6,796.12,-113.96118,55.522327,0
+100082707526W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,Wabiskaw,Suspended,Suspended,824,820.82,-113.945841,55.522363,0
+100072807526W400,Gas,Marten Hills,Commingled Pool 022,Wabamun,Suspended,Suspended,802.9,802.9,-113.976786,55.525701,0
+100072807526W402,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,802.9,802.9,-113.976786,55.525701,0
+100102807526W400,Gas,Marten Hills,Commingled Pool 022,Mannville,Suspended,Suspended,842,816.56,-113.975894,55.526412,0
+100102807526W402,Gas,Marten Hills,Commingled Pool 022,Mannville,Suspended,Suspended,842,816.56,-113.975894,55.526412,0
+100082907526W400,Unspecified,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,808,808,-113.993629,55.525333,0
+100063307526W400,Unspecified,Marten Hills,Unspecified,Unspecified,Drilled And Cased,Standing Cased,878.1,878.1,-113.98168,55.538961,0
+102063307526W400,Gas,Marten Hills,Commingled Pool 001,McMurray,Suspended,Suspended,843,843,-113.981642,55.538833,0
+103063307526W400,Gas,Marten Hills,Commingled Pool 022,Mannville,Suspended,Suspended,843,843,-113.981637,55.538081,0
+100083307526W402,Gas,Marten Hills,Commingled Pool 022,Clearwater,Suspended,Suspended,815,815,-113.970184,55.539681,0
+100053507526W400,Gas,Marten Hills,Commingled Pool 022,Mannville,Suspended,Suspended,803,803,-113.933867,55.539098,0
+100053507526W402,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,803,803,-113.933867,55.539098,0
+100050307501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,644,619.3,-114.076798,55.466498,0
+100080307501W500,Gas,Marten Hills,Grand Rapids H4H,Mannville,Suspended,Suspended,645,645,-114.053845,55.466916,0
+100080307501W502,Gas,Marten Hills,Grand Rapids F,Mannville,Suspended,Suspended,645,645,-114.053845,55.466916,0
+100080307501W503,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,645,645,-114.053845,55.466916,0
+100070407501W500,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,645.3,645.3,-114.089039,55.466859,0
+100090407501W500,Gas,Marten Hills,Grand Rapids F,Wabamun,Suspended,Suspended,640.2,640.2,-114.084674,55.470751,0
+100090407501W503,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,640.2,640.2,-114.084674,55.470751,0
+100070507501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,641.5,641.5,-114.116396,55.467353,0
+100080707501W500,Gas,Marten Hills,Grand Rapids F,Mannville,Flowing,Active,682,682,-114.136098,55.481217,2.83
+102080707501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,680,680,-114.134596,55.481623,0.58
+102070807501W502,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,683,683,-114.11452,55.480795,0.09
+102010907501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,646.5,646.5,-114.085218,55.478081,0
+100151507501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,674,674,-114.061248,55.50219,0
+100161507501W500,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,683.5,683.5,-114.059682,55.502328,0
+100161507501W502,Gas,Marten Hills,Commingled Pool 006,Wabamun,Flowing,Active,683.5,683.5,-114.059682,55.502328,4.55
+100161507501W503,Gas,Marten Hills,Commingled Pool 006,Wabamun,Suspended,Suspended,683.5,683.5,-114.059682,55.502328,0
+100161607501W500,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,695,695,-114.082706,55.501311,0
+100091707501W500,Gas,Marten Hills,Commingled Pool 001,McMurray,Flowing,Active,686,686,-114.110172,55.499896,5.41
+100111807501W500,Gas,Marten Hills,Commingled Pool 030,Mannville,Suspended,Suspended,731,731,-114.145753,55.500998,0
+100111807501W502,Gas,Marten Hills,Commingled Pool 005,Mannville,Suspended,Suspended,731,731,-114.145753,55.500998,0
+100141807501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,731.5,731.5,-114.145337,55.501757,0
+100071907501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Pumping,Active,731,731,-114.13767,55.509687,0.15
+100081907501W500,Gas,Marten Hills,Commingled Pool 005,Mannville,Flowing,Active,726,726,-114.136067,55.509687,7.47
+100081907501W502,Commingled Gas,Marten Hills,Commingled Pool 005,Mannville,Not Applicable,Active,726,726,-114.136067,55.509687,0
+100081907501W503,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,726,726,-114.136067,55.509687,0
+100081907501W504,Gas,Marten Hills,Commingled Pool 005,Mannville,Flowing,Active,726,726,-114.136067,55.509687,36.72
+100111907501W503,Disposal - Water,Marten Hills,Wabamun Undefined,Unspecified,Not Applicable,Active,861.7,861.7,-114.146096,55.513883,0
+100052007501W502,Gas,Marten Hills,Commingled Pool 005,Wabiskaw,Suspended,Suspended,714.8,714.8,-114.125079,55.511486,0
+100052007501W503,Gas,Marten Hills,Commingled Pool 005,Wabiskaw,Suspended,Suspended,714.8,714.8,-114.125079,55.511486,0
+100062007501W500,Gas,Marten Hills,Wabamun C,Unspecified,Suspended,Suspended,725.7,725.7,-114.121734,55.509709,0
+100062007501W502,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,725.7,725.7,-114.121734,55.509709,0.2
+100032107501W500,Gas,Marten Hills,Commingled Pool 006,Mannville,Suspended,Suspended,699,699,-114.098267,55.507876,0.16
+100032107501W502,Gas,Marten Hills,Commingled Pool 006,Mannville,Suspended,Suspended,699,699,-114.098267,55.507876,0
+100032107501W503,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,699,699,-114.098267,55.507876,0
+102032107501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,700,700,-114.097,55.507924,10.87
+100072207501W500,Gas,Marten Hills,Wabamun E,Wabamun,Suspended,Suspended,693.5,693.5,-114.061289,55.511148,0
+100072207501W502,Gas,Marten Hills,Commingled Pool 006,Wabamun,Suspended,Suspended,693.5,693.5,-114.061289,55.511148,0
+100072207501W503,Gas,Marten Hills,Grand Rapids Z6Z,Wabamun,Suspended,Suspended,693.5,693.5,-114.061289,55.511148,0
+100072207501W504,Gas,Marten Hills,Commingled Pool 006,Wabamun,Flowing,Active,693.5,693.5,-114.061289,55.511148,1.8
+102072207501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,691,691,-114.062859,55.511024,0
+100062307501W500,Gas,Marten Hills,Wabiskaw BB,Unspecified,Suspended,Suspended,713.2,713.2,-114.042664,55.510293,0
+100082407501W500,Gas,Marten Hills,Commingled Pool 001,Mannville,Flowing,Active,735,735,-114.007734,55.511886,0.02
+100142607501W500,Gas,Marten Hills,Grand Rapids VV,Mannville,Suspended,Suspended,766,766,-114.044495,55.533545,0
+102082807501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,722,722,-114.083442,55.523579,0
+100142907501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,727.8,727.8,-114.119561,55.530696,1.11
+102043007501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,759,759,-114.153212,55.520183,0
+100063207501W500,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,797.1,797.1,-114.121143,55.539049,0.21
+100053307501W500,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,826,805.84,-114.105157,55.537948,0
+100053507501W500,Gas,Marten Hills,Grand Rapids ZZ,Wabamun,Suspended,Suspended,770,770,-114.049988,55.53904,0
+100083607501W500,Gas,Marten Hills,Commingled Pool 022,Mannville,Suspended,Suspended,852,852,-114.004105,55.539099,0
+100060107502W502,Gas,Marten Hills,Grand Rapids N,Wabamun,Suspended,Suspended,724,724,-114.174503,55.465466,0
+100151307502W500,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,745.2,745.2,-114.165287,55.502803,0
+102101507502W500,Gas,Marten Hills,Wabiskaw Undefined,Wabiskaw,Suspended,Suspended,683,683,-114.216007,55.501158,0
+102101507502W502,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,683,683,-114.216007,55.501158,0
+100102307502W500,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,757.4,757.4,-114.190234,55.513411,0
+100022507502W500,Gas,Marten Hills,Grand Rapids U3U,Mannville,Suspended,Suspended,772,772,-114.164063,55.52243,0
+100022507502W502,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,772,772,-114.164063,55.52243,0
+100100407503W500,Gas,Marten Hills,Grand Rapids HH,Keg River,Suspended,Suspended,1857,1857,-114.397238,55.470626,0
+100100407503W502,Disposal - Water,Marten Hills,Wabamun Undefined,Keg River,Suspended,Suspended,1857,1857,-114.397238,55.470626,0
+100083007503W500,Gas,Marten Hills,Second White Specks A,Mannville,Suspended,Suspended,789,789,-114.443331,55.523192,0
+100073207503W503,Gas,Marten Hills,Viking J,Mannville,Suspended,Suspended,854,854,-114.427085,55.539606,0
+100073207503W504,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,854,854,-114.427085,55.539606,0
+100110407622W400,Gas,Marten Hills,Wabiskaw KK,Graminia,Suspended,Suspended,621,621,-113.359526,55.556843,0
+100030507622W400,Gas,Marten Hills,Commingled Pool 020,Mannville,Suspended,Suspended,632,632,-113.383395,55.550704,0
+102030507622W400,Oil,Marten Hills,Wabiskaw Undefined,McMurray,Suspended,Suspended,621,621,-113.38436,55.549698,0
+100160507622W400,Gas,Marten Hills,Wabiskaw KK,Mannville,Suspended,Suspended,609,609,-113.369934,55.560662,0
+100160507622W402,Gas,Marten Hills,Sparky Undefined,Mannville,Suspended,Suspended,609,609,-113.369934,55.560662,0
+100030907622W400,Gas,Marten Hills,Wabiskaw KK,Devonian,Suspended,Suspended,610,610,-113.360129,55.565522,0
+100030907622W402,Gas,Marten Hills,Grand Rapids Y4Y,Devonian,Suspended,Suspended,610,610,-113.360129,55.565522,0
+100151607622W400,Gas,Marten Hills,Wabiskaw KK,McMurray,Suspended,Suspended,649.5,649.5,-113.35596,55.588792,0
+100151607622W402,Gas,Marten Hills,Commingled Pool 021,McMurray,Suspended,Suspended,649.5,649.5,-113.35596,55.588792,0
+100022107622W403,Gas,Marten Hills,Grand Rapids Undefined,Mannville,Suspended,Suspended,662,662,-113.352518,55.59494,0
+100072107622W400,Gas,Marten Hills,Wabiskaw LL,Nisku,Suspended,Suspended,672,672,-113.352983,55.596171,0
+100072107622W402,Unspecified,Marten Hills,Unspecified,Nisku,Drilled And Cased,Standing Cased,672,672,-113.352983,55.596171,0
+100072107622W403,Gas,Marten Hills,Grand Rapids A7A,Nisku,Suspended,Suspended,672,672,-113.352983,55.596171,0
+100060107623W400,Gas,Marten Hills,Grand Rapids A5A,Mannville,Suspended,Suspended,638,638,-113.434722,55.552398,0
+100120207623W400,Gas,Marten Hills,Grand Rapids A5A,Wabamun,Suspended,Suspended,665.5,665.5,-113.470226,55.556051,0
+100070407623W400,Gas,Marten Hills,Commingled Pool 035,Mannville,Suspended,Suspended,671,671,-113.506354,55.55538,0
+100070407623W402,Gas,Marten Hills,Commingled Pool 035,Mannville,Suspended,Suspended,671,671,-113.506354,55.55538,0
+100090507623W400,Gas,Marten Hills,Grand Rapids B7B,Wabiskaw,Suspended,Suspended,745.3,712.9,-113.528015,55.556601,0
+100070707623W400,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,740,740,-113.558887,55.568019,0
+100070707623W402,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,740,740,-113.558887,55.568019,0
+100100707623W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,787.9,787.9,-113.559225,55.571685,0
+100120807623W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,757,757,-113.546631,55.571326,0
+100120807623W402,Gas,Marten Hills,Grand Rapids Q2Q,Wabamun,Suspended,Suspended,757,757,-113.546631,55.571326,0
+100130907623W400,Gas,Marten Hills,McMurray B,Wabamun,Test Completed,Testing,742,742,-113.519928,55.574361,0
+100130907623W402,Gas,Marten Hills,Wabiskaw I,Wabamun,Pumping,Active,742,742,-113.519928,55.574361,11.73
+100130907623W403,Gas,Marten Hills,McMurray B,Wabamun,Flowing,Active,742,742,-113.519928,55.574361,16.24
+100031007623W402,Gas,Marten Hills,Commingled Pool 035,Wabamun,Suspended,Suspended,746,677.91,-113.487906,55.560879,0
+100031007623W403,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,746,677.91,-113.487906,55.560879,0
+100131107623W400,Gas,Marten Hills,Wabiskaw MM,Wabamun,Suspended,Suspended,698,698,-113.46957,55.575489,0
+100151607623W403,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,776,776,-113.511503,55.588971,0
+100151607623W404,Gas,Marten Hills,Grand Rapids Q4Q,Wabiskaw,Suspended,Suspended,776,776,-113.511503,55.588971,0
+100161707623W400,Gas,Marten Hills,Grand Rapids I6I,McMurray,Suspended,Suspended,776,776,-113.529702,55.589606,0.62
+100161707623W402,Gas,Marten Hills,Grand Rapids I6I,McMurray,Flowing,Active,776,776,-113.529702,55.589606,10.98
+100012007623W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,797,797,-113.530925,55.594598,0
+100012007623W402,Gas,Marten Hills,Clearwater B,Wabamun,Suspended,Suspended,797,797,-113.530925,55.594598,0
+100022107623W400,Gas,Marten Hills,McMurray M,Mannville,Pumping,Active,812,812,-113.509888,55.594642,1.26
+100032107623W400,Gas,Marten Hills,Wabiskaw Q,Wabamun,Suspended,Suspended,795,795,-113.518192,55.594592,0
+100032107623W402,Gas,Marten Hills,Clearwater B,Wabamun,Flowing,Active,795,795,-113.518192,55.594592,2.85
+100042107623W402,Gas,Marten Hills,Grand Rapids PPP,Paleozoic,Test Completed,Testing,795,795,-113.518761,55.594751,0
+100042107623W403,Gas,Marten Hills,Grand Rapids O4O,Paleozoic,Suspended,Suspended,795,795,-113.518761,55.594751,0
+100030107624W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,680.1,675.38,-113.596247,55.548714,0
+100100107624W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,739.7,739.7,-113.586415,55.557231,0
+100120107624W400,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,709,709,-113.601635,55.557052,0
+100120107624W402,Gas,Marten Hills,Commingled Pool 028,Mannville,Suspended,Suspended,709,709,-113.601635,55.557052,0
+100060207624W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,717.2,717.2,-113.61748,55.553014,0
+100060907624W400,Gas,Marten Hills,Commingled Pool 001,McMurray,Suspended,Suspended,845,836.86,-113.67141,55.56933,0
+100061107624W400,Gas,Marten Hills,Commingled Pool 028,Wabiskaw,Suspended,Suspended,742,742,-113.618625,55.56735,0
+100061107624W402,Gas,Marten Hills,Grand Rapids CC,Wabiskaw,Suspended,Suspended,742,742,-113.618625,55.56735,0
+100071207624W402,Gas,Marten Hills,Commingled Pool 028,Wabiskaw,Suspended,Suspended,720,720,-113.589373,55.566295,0
+100071207624W403,Gas,Marten Hills,Grand Rapids CC,Wabiskaw,Suspended,Suspended,720,720,-113.589373,55.566295,0
+100061407624W400,Gas,Marten Hills,Grand Rapids CC,Mannville,Suspended,Suspended,816.5,816.5,-113.619883,55.581846,0
+100072107624W402,Gas,Marten Hills,Clearwater I,Mannville,Suspended,Suspended,882,882,-113.664934,55.596904,0
+100072107624W403,Gas,Marten Hills,Clearwater I,Mannville,Suspended,Suspended,882,882,-113.664934,55.596904,0
+100072107624W404,Gas,Marten Hills,Grand Rapids Undefined,Mannville,Suspended,Suspended,882,882,-113.664934,55.596904,0
+100162807624W400,Gas,Marten Hills,Commingled Pool 032,Mannville,Suspended,Suspended,818,818,-113.657373,55.618709,0
+100162807624W402,Gas,Marten Hills,Clearwater I,Mannville,Suspended,Suspended,818,818,-113.657373,55.618709,0
+100162807624W403,Gas,Marten Hills,Grand Rapids J6J,Mannville,Suspended,Suspended,818,818,-113.657373,55.618709,0
+100022907624W400,Disposal - Water,Marten Hills,McMurray Undefined,Wabamun,Suspended,Suspended,900,900,-113.68711,55.606489,0
+100132907624W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,854,854,-113.702857,55.619225,0
+100132907624W402,Gas,Marten Hills,Colony Undefined,Mannville,Suspended,Suspended,854,854,-113.702857,55.619225,0
+100070207625W400,Gas,Marten Hills,Clearwater J,Mannville,Suspended,Suspended,795,795,-113.767773,55.552958,0
+100070207625W402,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,795,795,-113.767773,55.552958,0
+100070507625W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,684,684,-113.845233,55.553644,0
+100070507625W402,Gas,Marten Hills,Grand Rapids B,Unspecified,Flowing,Active,684,684,-113.845233,55.553644,1.05
+102070507625W400,Gas,Marten Hills,Commingled Pool 029,Clearwater,Suspended,Suspended,627,627,-113.845514,55.553506,0
+100030607625W400,Bitumen,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,749.5,697.07,-113.883424,55.553417,0
+100060707625W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,682.8,682.8,-113.879424,55.566276,2.48
+100100807625W400,Gas,Marten Hills,Grand Rapids B,Wabiskaw,Suspended,Suspended,783,651.7,-113.848925,55.57184,0
+102100807625W400,Gas,Marten Hills,Grand Rapids B,Grand Rapids,Flowing,Active,803,473.02,-113.844073,55.573689,1.11
+100110807625W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,684.3,684.3,-113.851616,55.571699,0.73
+102110807625W400,Gas,Marten Hills,Commingled Pool 029,Mannville,Flowing,Active,645,645,-113.853186,55.57139,0.93
+100120907625W400,Gas,Marten Hills,Grand Rapids B,Clearwater,Suspended,Suspended,649,649,-113.831863,55.57177,0
+102120907625W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,638,638,-113.831705,55.571769,0
+100111207625W403,Gas,Marten Hills,Clearwater PPP,Wabiskaw,Suspended,Suspended,824,824,-113.745538,55.569961,0
+100111207625W404,Gas,Marten Hills,Clearwater PPP,Wabiskaw,Suspended,Suspended,824,824,-113.745538,55.569961,0
+100111307625W400,Gas,Marten Hills,Clearwater PPP,Wabiskaw-McMurray,Suspended,Suspended,797,797,-113.749196,55.584926,0
+100111307625W402,Gas,Marten Hills,Grand Rapids Undefined,Wabiskaw-McMurray,Suspended,Suspended,797,797,-113.749196,55.584926,0
+100061407625W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,796.4,796.4,-113.773989,55.582732,0
+100061407625W402,Gas,Marten Hills,Commingled Pool 034,Unspecified,Suspended,Suspended,796.4,796.4,-113.773989,55.582732,0
+100061407625W403,Gas,Marten Hills,Commingled Pool 034,Unspecified,Flowing,Active,796.4,796.4,-113.773989,55.582732,0.14
+100071407625W400,Gas,Marten Hills,Clearwater PPP,Wabiskaw,Flowing,Active,791.1,791.1,-113.768265,55.582552,0.91
+100101707625W402,Gas,Marten Hills,Grand Rapids B,Unspecified,Flowing,Active,697.7,697.7,-113.845723,55.58633,1.78
+100111707625W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw-McMurray,Flowing,Active,694,694,-113.850423,55.585908,0.11
+100111707625W402,Gas,Marten Hills,Commingled Pool 029,Wabiskaw-McMurray,Flowing,Active,694,694,-113.850423,55.585908,0.4
+100101807625W400,Disposal - Water,Marten Hills,Grosmont Undefined,Unspecified,Not Applicable,Active,1143,1143,-113.870506,55.587059,0
+102101807625W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw-McMurray,Suspended,Suspended,700,700,-113.869644,55.586109,0
+102101807625W402,Gas,Marten Hills,Commingled Pool 029,Wabiskaw-McMurray,Pumping,Active,700,700,-113.869644,55.586109,4.16
+100061907625W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,736.4,736.4,-113.877973,55.59717,1.79
+100111907625W402,Gas,Marten Hills,Commingled Pool 022,Grand Rapids,Flowing,Active,855,547.09,-113.877852,55.596867,10.55
+100122007625W402,Gas,Marten Hills,Commingled Pool 027,McMurray,Suspended,Suspended,739,739,-113.859388,55.599394,0
+100112107625W400,Gas,Marten Hills,McMurray F,Wabiskaw,Suspended,Suspended,685,685,-113.827381,55.599797,0
+100112107625W402,Gas,Marten Hills,Grand Rapids B,Wabiskaw,Suspended,Suspended,685,685,-113.827381,55.599797,0
+102112107625W400,Gas,Marten Hills,Commingled Pool 027,Clearwater,Suspended,Suspended,564,564,-113.827211,55.599655,0
+102112107625W402,Gas,Marten Hills,Viking F,Clearwater,Suspended,Suspended,564,564,-113.827211,55.599655,0
+103112107625W402,Gas,Marten Hills,Clearwater YYY,Wabamun,Suspended,Suspended,685.5,685.5,-113.827149,55.599527,0
+103112107625W403,Gas,Marten Hills,Clearwater YYY,Wabamun,Flowing,Active,685.5,685.5,-113.827149,55.599527,5.38
+104112107625W400,Gas,Marten Hills,Grand Rapids B,Grand Rapids,Flowing,Active,872,512.57,-113.833638,55.599407,1.58
+100072207625W400,Gas,Marten Hills,Grand Rapids Undefined,Clearwater,Suspended,Suspended,635,635,-113.791466,55.595393,0
+100032307625W400,Gas,Marten Hills,Commingled Pool 034,Wabiskaw,Suspended,Suspended,670,670,-113.774563,55.595183,0
+100072307625W402,Gas,Marten Hills,Clearwater PPP,Wabiskaw-McMurray,Suspended,Suspended,734,734,-113.767503,55.595463,0
+100052407625W400,Gas,Marten Hills,Commingled Pool 034,Mannville,Suspended,Suspended,782,753.09,-113.752017,55.596745,0
+100052407625W402,Gas,Marten Hills,Clearwater PPP,Mannville,Flowing,Active,782,753.09,-113.752017,55.596745,2.9
+100043007625W400,Gas,Marten Hills,Commingled Pool 027,Mannville,Suspended,Suspended,741,741,-113.883417,55.609961,0
+100143007625W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,1622.5,1622.5,-113.876737,55.619148,0
+100143007625W402,Gas,Marten Hills,Commingled Pool 022,Unspecified,Suspended,Suspended,1622.5,1622.5,-113.876737,55.619148,0
+100013107625W400,Gas,Marten Hills,Clearwater Undefined,Wabamun,Suspended,Suspended,791,791,-113.86481,55.624065,0
+100013107625W402,Gas,Marten Hills,Grand Rapids D7D,Wabamun,Suspended,Suspended,791,791,-113.86481,55.624065,0
+100050107626W400,Gas,Marten Hills,Commingled Pool 022,McMurray,Suspended,Suspended,733.5,733.5,-113.907795,55.554708,0
+100050107626W402,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,733.5,733.5,-113.907795,55.554708,0
+100070207626W400,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,760,760,-113.92106,55.553875,0
+100070207626W403,Gas,Marten Hills,Clearwater Undefined,Wabiskaw,Suspended,Suspended,760,760,-113.92106,55.553875,0
+100070207626W404,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Pumping,Active,760,760,-113.92106,55.553875,1.52
+102070207626W400,Gas,Marten Hills,Commingled Pool 022,Grand Rapids,Suspended,Suspended,608,608,-113.921022,55.553783,0
+100050307626W400,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,785,785,-113.958546,55.554265,0
+100050307626W402,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,785,785,-113.958546,55.554265,0
+102050307626W400,Gas,Marten Hills,Commingled Pool 022,Wabiskaw-McMurray,Suspended,Suspended,786,786,-113.958471,55.554421,0
+102050307626W402,Commingled,Marten Hills,Commingled Pool 022,Wabiskaw-McMurray,Not Applicable,Active,786,786,-113.958471,55.554421,0
+100080407626W400,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,786.4,786.4,-113.969138,55.554262,0
+100080407626W402,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,786.4,786.4,-113.969138,55.554262,0
+100080407626W403,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,786.4,786.4,-113.969138,55.554262,0
+102080407626W400,Gas,Marten Hills,Commingled Pool 022,Wabiskaw-McMurray,Flowing,Active,784,784,-113.969422,55.554361,2.81
+102080407626W402,Commingled,Marten Hills,Commingled Pool 022,Wabiskaw-McMurray,Not Applicable,Active,784,784,-113.969422,55.554361,0
+100070907626W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,760,760,-113.974641,55.566957,0
+100070907626W402,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,760,760,-113.974641,55.566957,0
+102070907626W400,Gas,Marten Hills,Clearwater Undefined,Wabiskaw-McMurray,Suspended,Suspended,760,760,-113.974644,55.566778,0
+102070907626W402,Gas,Marten Hills,Clearwater Undefined,Wabiskaw-McMurray,Suspended,Suspended,760,760,-113.974644,55.566778,0
+100031007626W400,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,743,743,-113.954305,55.566455,0
+100031007626W402,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,743,743,-113.954305,55.566455,0
+100031107626W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,743,743,-113.929713,55.565891,0
+100031107626W402,Gas,Marten Hills,Commingled Pool 022,Wabamun,Suspended,Suspended,743,743,-113.929713,55.565891,0
+100061207626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,708.4,708.4,-113.902554,55.568138,0
+100061207626W402,Gas,Marten Hills,Commingled Pool 022,Unspecified,Flowing,Active,708.4,708.4,-113.902554,55.568138,1.91
+102061207626W400,Unspecified,Marten Hills,Unspecified,Wabiskaw-McMurray,Drilled And Cased,Standing Cased,684,684,-113.902432,55.568213,0
+100101307626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,706.2,706.2,-113.896989,55.586352,8.03
+102101307626W400,Gas,Marten Hills,Commingled Pool 022,Clearwater,Suspended,Suspended,673,673,-113.897013,55.586034,0
+100051407626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,700.4,700.4,-113.935633,55.583026,8.56
+102051407626W400,Gas,Marten Hills,Viking C,Joli Fou,Suspended,Suspended,525,525,-113.93388,55.583751,0
+100101407626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,712,712,-113.923586,55.58645,0
+100101407626W402,Gas,Marten Hills,Commingled Pool 022,Unspecified,Flowing,Active,712,712,-113.923586,55.58645,3.7
+100141407626W400,Gas,Marten Hills,Viking C,Joli Fou,Suspended,Suspended,503,503,-113.930103,55.591448,0
+100101507626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,718.7,718.7,-113.948695,55.586397,0
+100101507626W402,Gas,Marten Hills,Commingled Pool 022,Unspecified,Flowing,Active,718.7,718.7,-113.948695,55.586397,4.93
+100101607626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,742.8,742.8,-113.974619,55.586621,9.16
+100072107626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,726.3,726.3,-113.974618,55.597309,0
+100072107626W402,Gas,Marten Hills,Commingled Pool 022,Unspecified,Pumping,Active,726.3,726.3,-113.974618,55.597309,2.22
+100072207626W400,Gas,Marten Hills,Commingled Pool 022,Clearwater,Pumping,Active,618,618,-113.948502,55.598969,2.75
+100112207626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Flowing,Active,725.4,725.4,-113.955436,55.60101,9.51
+100072307626W400,Gas,Marten Hills,Viking C,Joli Fou,Suspended,Suspended,520,520,-113.921148,55.597196,0
+100102307626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,707.4,707.4,-113.922381,55.600898,0
+100102307626W402,Gas,Marten Hills,Commingled Pool 022,Unspecified,Suspended,Suspended,707.4,707.4,-113.922381,55.600898,0
+100102407626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Pumping,Active,722.7,722.7,-113.896989,55.601169,11.07
+102102407626W400,Gas,Marten Hills,Commingled Pool 022,Grand Rapids,Suspended,Suspended,586,586,-113.897443,55.601392,0
+100122407626W400,Unspecified,Marten Hills,Unspecified,Grand Rapids,Drilled And Cased,Standing Cased,568,568,-113.907595,55.600442,0
+100072507626W402,Gas,Marten Hills,Commingled Pool 022,Unspecified,Flowing,Active,742.2,742.2,-113.896987,55.611835,1.76
+100102607626W400,Gas,Marten Hills,Commingled Pool 001,Unspecified,Suspended,Suspended,791.6,791.6,-113.922898,55.615532,0
+102102607626W400,Gas,Marten Hills,Commingled Pool 022,Grand Rapids,Pumping,Active,585,585,-113.922984,55.615608,2.48
+104102607626W400,Gas,Marten Hills,Grand Rapids D7D,Clearwater,Suspended,Suspended,681,681,-113.922993,55.615942,0
+100142707626W400,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,779,779,-113.954869,55.619471,0
+100082807626W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,750,750,-113.970815,55.611481,0
+100082807626W402,Gas,Marten Hills,Commingled Pool 022,Wabiskaw,Suspended,Suspended,750,750,-113.970815,55.611481,0
+100063307626W403,Gas,Marten Hills,Grand Rapids CCC,Unspecified,Suspended,Suspended,789.4,789.4,-113.980461,55.626704,0
+100033407626W400,Gas,Marten Hills,Grand Rapids CCC,Mannville,Suspended,Suspended,796,796,-113.957089,55.622478,0
+102033407626W400,Gas,Marten Hills,Commingled Pool 022,Grand Rapids,Suspended,Suspended,674,674,-113.954844,55.622179,0
+100013507626W400,Gas,Marten Hills,Commingled Pool 022,McMurray,Flowing,Active,819,718.84,-113.911574,55.622086,4.27
+100033607626W400,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,818,717.33,-113.911575,55.622041,0
+100070207601W505,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,837,837,-114.035569,55.55408,0
+100140707601W500,Gas,Marten Hills,Clearwater Undefined,Wabamun,Suspended,Suspended,797,797,-114.14735,55.574607,0
+100140707601W502,Commingled,Marten Hills,Clearwater Undefined,Wabamun,Not Applicable,Active,797,797,-114.14735,55.574607,0
+100101007601W502,Gas,Marten Hills,Grand Rapids VV,Mannville,Suspended,Suspended,852,830.22,-114.059333,55.572251,0
+100041107601W502,Gas,Marten Hills,Commingled Pool 022,Mannville,Suspended,Suspended,834,834,-114.052641,55.563068,0
+100041107601W503,Gas,Marten Hills,Grand Rapids DDD,Mannville,Suspended,Suspended,834,834,-114.052641,55.563068,0
+100041107601W504,Gas,Marten Hills,Grand Rapids VV,Mannville,Suspended,Suspended,834,834,-114.052641,55.563068,0
+100041807601W500,Gas,Marten Hills,Wabiskaw DD,Wabamun,Suspended,Suspended,784,784,-114.153881,55.580483,0
+100041807601W502,Gas,Marten Hills,Clearwater Undefined,Wabamun,Suspended,Suspended,784,784,-114.153881,55.580483,0
+100041807601W503,Gas,Marten Hills,Grand Rapids Y6Y,Wabamun,Suspended,Suspended,784,784,-114.153881,55.580483,0
+100023207601W500,Gas,Marten Hills,Wabiskaw U,Mannville,Suspended,Suspended,712,712,-114.117718,55.622263,0
+100023207601W502,Gas,Marten Hills,Grand Rapids JJ,Mannville,Suspended,Suspended,712,712,-114.117718,55.622263,0
+100023207601W503,Gas,Marten Hills,Grand Rapids F6F,Mannville,Suspended,Suspended,712,712,-114.117718,55.622263,0
+100023207601W504,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,712,712,-114.117718,55.622263,0
+100063607601W504,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,766,766,-114.014789,55.628138,0
+100150707602W500,Gas,Marten Hills,Clearwater Undefined,Wabiskaw,Suspended,Suspended,734,734,-114.29737,55.574233,0
+100140907602W500,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,747,747,-114.251931,55.577322,0
+100140907602W502,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,747,747,-114.251931,55.577322,0
+100111007602W500,Gas,Marten Hills,Wabiskaw C,Unspecified,Suspended,Suspended,816.9,816.9,-114.224806,55.572616,0
+100111007602W503,Gas,Marten Hills,Commingled Pool 025,Unspecified,Suspended,Suspended,816.9,816.9,-114.224806,55.572616,0
+102111007602W500,Gas,Marten Hills,Clearwater G2G,Wabiskaw-McMurray,Flowing,Active,800,800,-114.22526,55.572407,1.5
+102111007602W502,Gas,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Suspended,Suspended,800,800,-114.22526,55.572407,0
+100121207602W500,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,812.5,812.5,-114.181849,55.57152,0
+100121207602W502,Gas,Marten Hills,Grand Rapids L6L,McMurray,Suspended,Suspended,812.5,812.5,-114.181849,55.57152,0
+100121207602W503,Gas,Marten Hills,Grand Rapids K6K,McMurray,Suspended,Suspended,812.5,812.5,-114.181849,55.57152,0
+100011307602W500,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,799,799,-114.161942,55.57777,0
+100121507602W500,Gas,Marten Hills,Commingled Pool 025,Wabiskaw,Suspended,Suspended,829,829,-114.230133,55.587906,0
+100121507602W502,Gas,Marten Hills,Viking Undefined,Wabiskaw,Test Completed,Testing,829,829,-114.230133,55.587906,0
+100121507602W503,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,829,829,-114.230133,55.587906,0
+102121507602W500,Gas,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Suspended,Suspended,820,820,-114.230365,55.587759,0
+102121507602W502,Gas,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Suspended,Suspended,820,820,-114.230365,55.587759,0.07
+100141607602W500,Gas,Marten Hills,Wabiskaw C,Wabiskaw,Flowing,Active,814.5,814.5,-114.250845,55.589134,2.61
+102141607602W500,Gas,Marten Hills,Grand Rapids I,Clearwater,Suspended,Suspended,675,675,-114.250807,55.589267,0
+102141607602W502,Unspecified,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,675,675,-114.250807,55.589267,0
+103141607602W500,Gas,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Flowing,Active,805.8,805.8,-114.250537,55.589198,7.63
+103141607602W502,Commingled,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Not Applicable,Active,805.8,805.8,-114.250537,55.589198,0
+100061707602W500,Gas,Marten Hills,Grand Rapids L4L,Unspecified,Suspended,Suspended,755.3,755.3,-114.273372,55.582998,0
+100061707602W502,Gas,Marten Hills,Commingled Pool 025,Unspecified,Suspended,Suspended,755.3,755.3,-114.273372,55.582998,0
+102061707602W500,Gas,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Flowing,Active,757.8,757.8,-114.273552,55.582827,0.16
+102061707602W502,Commingled,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Not Applicable,Active,757.8,757.8,-114.273552,55.582827,0
+100061807602W500,Gas,Marten Hills,Commingled Pool 025,Wabiskaw,Suspended,Suspended,745,745,-114.299609,55.584682,0
+100061807602W502,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,745,745,-114.299609,55.584682,0
+100151907602W500,Gas,Marten Hills,Commingled Pool 025,Paleozoic,Flowing,Active,773.5,773.5,-114.297914,55.603698,6.89
+100151907602W502,Gas,Marten Hills,Commingled Pool 025,Paleozoic,Suspended,Suspended,773.5,773.5,-114.297914,55.603698,0
+100151907602W503,Commingled Gas,Marten Hills,Commingled Pool 025,Paleozoic,Not Applicable,Active,773.5,773.5,-114.297914,55.603698,0
+100062007602W500,Gas,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Flowing,Active,780,780,-114.277641,55.598611,1.74
+100062007602W502,Gas,Marten Hills,Grand Rapids G6G,Wabiskaw-McMurray,Suspended,Suspended,780,780,-114.277641,55.598611,0
+100062107602W500,Gas,Marten Hills,Wabiskaw C,Unspecified,Suspended,Suspended,830,830,-114.248678,55.597909,0
+100072107602W502,Gas,Marten Hills,Grand Rapids I,Unspecified,Suspended,Suspended,783.3,783.3,-114.246657,55.597863,0
+100072107602W503,Gas,Marten Hills,Grand Rapids L4L,Unspecified,Flowing,Active,783.3,783.3,-114.246657,55.597863,0.52
+102072107602W500,Gas,Marten Hills,Commingled Pool 025,Clearwater,Flowing,Active,810,810,-114.246273,55.597874,5.88
+102072107602W502,Unspecified,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,810,810,-114.246273,55.597874,0
+100102107602W500,Gas,Marten Hills,Grand Rapids Undefined,Clearwater,Suspended,Suspended,795,795,-114.241531,55.601912,0
+100102107602W502,Gas,Marten Hills,Grand Rapids I,Clearwater,Flowing,Active,795,795,-114.241531,55.601912,0.98
+100062207602W502,Gas,Marten Hills,Grand Rapids NNN,McMurray,Suspended,Suspended,820.8,820.8,-114.221987,55.597693,0
+102062207602W500,Gas,Marten Hills,Commingled Pool 025,Wabiskaw-McMurray,Suspended,Suspended,820,820,-114.222152,55.597899,0
+100053007602W500,Gas,Marten Hills,Commingled Pool 025,Mannville,Suspended,Suspended,812,812,-114.311326,55.611681,0
+100063007602W500,Gas,Marten Hills,Wabiskaw GG,Unspecified,Suspended,Suspended,804.1,804.1,-114.300556,55.612167,0
+100123107602W500,Gas,Marten Hills,Wabiskaw GG,McMurray,Suspended,Suspended,705,705,-114.306005,55.630966,0
+100123107602W502,Gas,Marten Hills,Commingled Pool 025,McMurray,Flowing,Active,705,705,-114.306005,55.630966,6.15
+100093207602W500,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,780,780,-114.262371,55.62846,0
+100043407602W502,Gas,Marten Hills,Clearwater Undefined,Wabiskaw,Suspended,Suspended,743,743,-114.229124,55.623986,0
+100101307603W500,Gas,Marten Hills,Wabiskaw M,Wabamun,Flowing,Active,797,797,-114.320841,55.587523,0.13
+100151507603W500,Gas,Marten Hills,Wabiskaw M,Mannville,Suspended,Suspended,797,797,-114.373442,55.590552,0
+100151507603W502,Gas,Marten Hills,Commingled Pool 025,Mannville,Flowing,Active,797,797,-114.373442,55.590552,0.79
+100151507603W503,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,797,797,-114.373442,55.590552,0
+100101807603W500,Gas,Marten Hills,Grand Rapids G4G,Unspecified,Suspended,Suspended,798,798,-114.447656,55.586859,0
+100101807603W502,Gas,Marten Hills,Viking I,Unspecified,Flowing,Active,798,798,-114.447656,55.586859,7.24
+100012107603W502,Gas,Marten Hills,Commingled Pool 025,McMurray,Suspended,Suspended,798.5,798.5,-114.395531,55.595165,0
+100112107603W500,Gas,Marten Hills,Wabiskaw M,Paleozoic,Suspended,Suspended,829,829,-114.403659,55.60121,0
+100102207603W500,Gas,Marten Hills,Wabiskaw M,Wabamun,Suspended,Suspended,823,816.78,-114.37231,55.602922,0
+100102207603W502,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,823,816.78,-114.37231,55.602922,0
+100102207603W503,Gas,Marten Hills,Viking Undefined,Wabamun,Suspended,Suspended,823,816.78,-114.37231,55.602922,0
+102102207603W500,Gas,Marten Hills,Wabiskaw M,Wabiskaw,Flowing,Active,807,807,-114.375256,55.600843,1.52
+100152207603W500,Gas,Marten Hills,Commingled Pool 025,McMurray,Flowing,Active,812,812,-114.371857,55.603115,2.15
+100092307603W500,Gas,Marten Hills,Commingled Pool 025,Banff,Suspended,Suspended,806,806,-114.342912,55.601803,0
+100112407603W502,Gas,Marten Hills,Commingled Pool 025,Mannville,Suspended,Suspended,834,834,-114.326616,55.601108,0
+100042507603W502,Gas,Marten Hills,Commingled Pool 025,Wabamun,Flowing,Active,822,822,-114.333425,55.609098,2.84
+100152607603W502,Gas,Marten Hills,Colony Undefined,Mannville,Suspended,Suspended,791,791,-114.349976,55.61828,0
+100152607603W503,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,791,791,-114.349976,55.61828,0
+100072707603W500,Gas,Marten Hills,Wabiskaw M,Paleozoic,Suspended,Suspended,799,799,-114.372135,55.612076,0
+100072707603W502,Gas,Marten Hills,Colony Undefined,Paleozoic,Testing,Testing,799,799,-114.372135,55.612076,0
+100072707603W503,Gas,Marten Hills,Second White Specs Undefined,Paleozoic,Suspended,Suspended,799,799,-114.372135,55.612076,0
+100132707603W500,Gas,Marten Hills,Wabiskaw M,Mannville,Suspended,Suspended,773,764.38,-114.385363,55.618233,0
+100092807603W500,Gas,Marten Hills,Wabiskaw M,Mannville,Suspended,Suspended,775,775,-114.395646,55.614875,0
+100092807603W502,Gas,Marten Hills,Viking Undefined,Mannville,Suspended,Suspended,775,775,-114.395646,55.614875,0
+100063007603W502,Gas,Marten Hills,Commingled Pool 036,Mannville,Suspended,Suspended,749,749,-114.455173,55.612556,0
+102063007603W500,Gas,Marten Hills,Viking L,Mannville,Suspended,Suspended,708.7,708.7,-114.454871,55.612548,0
+100133107603W500,Gas,Marten Hills,Wabiskaw HH,Mannville,Suspended,Suspended,673.4,673.4,-114.461736,55.632679,0
+100013307603W500,Gas,Marten Hills,Wabiskaw M,Banff,Suspended,Suspended,740,740,-114.395778,55.624197,0
+100013307603W502,Gas,Marten Hills,Grand Rapids C6C,Banff,Suspended,Suspended,740,740,-114.395778,55.624197,0
+100053507603W503,Gas,Marten Hills,Clearwater C2C,McMurray,Pumping,Active,726,726,-114.357738,55.626972,1.74
+100063607603W500,Unspecified,Marten Hills,Unspecified,Wabiskaw-McMurray,Drilled And Cased,Standing Cased,721,721,-114.329557,55.62706,0
+100121307604W500,Disposal - Water,Marten Hills,Wabiskaw Z,Mannville,Suspended,Suspended,832.5,832.5,-114.490886,55.58592,0
+100121307604W502,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,832.5,832.5,-114.490886,55.58592,0
+100071407604W500,Gas,Marten Hills,Grand Rapids S4S,Wabiskaw,Suspended,Suspended,849,849,-114.500887,55.582032,0
+100092307604W503,Unspecified,Marten Hills,Unspecified,Banff,Drilled And Cased,Standing Cased,806,806,-114.498807,55.601438,0
+100092307604W504,Gas,Marten Hills,Grand Rapids S4S,Banff,Suspended,Suspended,806,806,-114.498807,55.601438,0
+102092307604W500,Unspecified,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,777,777,-114.498207,55.602076,0
+102092307604W502,Gas,Marten Hills,Commingled Pool 036,Clearwater,Suspended,Suspended,777,777,-114.498207,55.602076,0
+100122407604W500,Gas,Marten Hills,Wabiskaw Z,Mannville,Suspended,Suspended,777,777,-114.49134,55.601244,0
+100122407604W502,Gas,Marten Hills,Commingled Pool 036,Mannville,Suspended,Suspended,777,777,-114.49134,55.601244,0
+100042507604W500,Gas,Marten Hills,Wabiskaw Z,Clearwater,Suspended,Suspended,726,726,-114.486763,55.609408,0
+100012607604W502,Gas,Marten Hills,Commingled Pool 036,Wabiskaw,Suspended,Suspended,752,752,-114.498923,55.609444,0
+100012607604W503,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,752,752,-114.498923,55.609444,0
+100140607724W403,Gas,Marten Hills,Commingled Pool 019,Mannville,Test Completed,Testing,762.5,762.5,-113.722595,55.646542,0
+100140607724W404,Gas,Marten Hills,Commingled Pool 019,Mannville,Suspended,Suspended,762.5,762.5,-113.722595,55.646542,0
+100070707724W400,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,766,750.47,-113.711858,55.65607,0
+100070707724W402,Gas,Marten Hills,Commingled Pool 019,Mannville,Suspended,Suspended,766,750.47,-113.711858,55.65607,0
+100141807724W400,Gas,Marten Hills,Grand Rapids Q5Q,Wabamun,Suspended,Suspended,810,714.11,-113.722848,55.672756,0
+100141807724W402,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,810,714.11,-113.722848,55.672756,0
+100141807724W403,Gas,Marten Hills,Grand Rapids Q5Q,Wabamun,Suspended,Suspended,810,714.11,-113.722848,55.672756,0
+100141807724W404,Gas,Marten Hills,Commingled Pool 019,Wabamun,Suspended,Suspended,810,714.11,-113.722848,55.672756,0
+100141807724W405,Gas,Marten Hills,Grand Rapids F5F,Wabamun,Suspended,Suspended,810,714.11,-113.722848,55.672756,0
+100060607725W400,Gas,Marten Hills,Grand Rapids K5K,Mannville,Suspended,Suspended,757,757,-113.875708,55.641455,0
+100050707725W403,Disposal - Water,Marten Hills,Grand Rapids Undefined,Mannville,Not Applicable,Active,1121,649.28,-113.87626,55.654712,0
+100101007725W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Flowing,Active,737,737,-113.790524,55.659754,8.2
+100051107725W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Flowing,Active,755,755,-113.777199,55.655216,0.84
+1W0121607725W400,Gas,Marten Hills,Commingled Pool 002,Unspecified,Suspended,Suspended,685,648.63,-113.835279,55.67065,0
+100031907725W400,Gas,Marten Hills,Grand Rapids N5N,Wabiskaw,Suspended,Suspended,647,626.73,-113.879236,55.680014,0
+100121907725W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,620,620,-113.884035,55.688784,0.93
+100121907725W402,Gas,Marten Hills,Grand Rapids N5N,Wabiskaw,Suspended,Suspended,620,620,-113.884035,55.688784,0
+100072007725W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Suspended,Suspended,646,646,-113.846271,55.683782,0
+100072007725W402,Gas,Marten Hills,Commingled Pool 002,Wabiskaw,Suspended,Suspended,646,646,-113.846271,55.683782,0
+100012407725W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,831,671.74,-113.741609,55.684164,0
+100012407725W402,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,831,671.74,-113.741609,55.684164,0
+100012407725W403,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,831,671.74,-113.741609,55.684164,0
+100092607725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,692,586.93,-113.765241,55.706111,2.57
+100112607725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,629,590.1,-113.777767,55.705577,0
+100112707725W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,626,626,-113.798707,55.702689,0
+100052807725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,594,594,-113.831838,55.697724,0
+100082807725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,608,608,-113.815975,55.698198,0
+100102807725W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Flowing,Active,612,612,-113.822034,55.70236,1.11
+100112807725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,591.3,591.3,-113.828891,55.703554,0
+100162807725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,608,608,-113.814883,55.70568,0
+100092907725W400,Gas,Marten Hills,Commingled Pool 001,Wabiskaw,Flowing,Active,588,588,-113.83863,55.704369,3.76
+100083307725W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,617,617,-113.813924,55.712069,0
+100163307725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,605,587.17,-113.813884,55.721028,0
+100013407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,807,592.42,-113.793749,55.712433,7.41
+102013407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,815,588.97,-113.793749,55.712029,3.74
+103013407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,716,592.93,-113.793749,55.711894,3.43
+104013407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,639.5,587.75,-113.793749,55.712298,0.88
+100023407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,738,592.78,-113.793829,55.712837,0.91
+100063407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,605,592.78,-113.800494,55.713939,0
+102073407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,593,593,-113.793749,55.712163,0.65
+103073407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,664,589.52,-113.793829,55.711759,8.27
+100083407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,663,594.16,-113.793749,55.712702,7.99
+102083407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,822,595.17,-113.793749,55.712568,2.91
+100093407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,598,572.47,-113.792584,55.719594,11.42
+102093407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,807.5,570.51,-113.792584,55.719459,7.56
+103093407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,691,577.31,-113.792664,55.719325,5.3
+104093407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,737,571.53,-113.792584,55.719729,3.18
+100103407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,655,574.17,-113.792743,55.718921,0.18
+100143407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,624,574.89,-113.800575,55.719695,0
+100153407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,597,582.36,-113.792743,55.719055,0.13
+102153407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,644,571.51,-113.792743,55.71919,4.05
+100163407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,621,574.39,-113.792584,55.719998,0
+102163407725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,750,565.87,-113.792584,55.719864,0
+100013507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,787,572.18,-113.767398,55.713403,0.5
+102013507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,815,571.89,-113.767396,55.713268,2.19
+103013507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,780,573.66,-113.767954,55.713134,0
+104013507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,641,576.58,-113.767716,55.713134,0
+100023507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,607,580.69,-113.768209,55.713134,0
+102023507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,744,577.71,-113.768432,55.713135,0
+100033507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,658,583.24,-113.777222,55.711977,5.22
+102033507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,717,573.77,-113.777222,55.711842,6.87
+100043507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,719,578.36,-113.777142,55.712785,0
+102043507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,755,581.39,-113.777222,55.712381,0
+103043507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,659,581.19,-113.777222,55.712516,0
+100053507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,580,580,-113.777222,55.712246,8.88
+102053507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,677,585.09,-113.777221,55.712651,0
+103053507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,650,578.48,-113.777301,55.711707,2.08
+102063507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,701,586.11,-113.777222,55.712112,10.02
+100073507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,603,572.83,-113.76867,55.713135,7.81
+100083507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,617,578.33,-113.767396,55.713672,5.5
+102083507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,769,571.71,-113.767396,55.713537,7.44
+100093507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,576,559.59,-113.766272,55.719371,12.07
+102093507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,770,556.32,-113.766178,55.719247,7.94
+103093507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,650,557,-113.766159,55.719105,7.61
+104093507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,718,565.42,-113.766364,55.719495,8.97
+100103507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,702,558.22,-113.766643,55.719867,3.18
+102103507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,592,563.17,-113.766737,55.719991,8.38
+100113507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Suspended,Suspended,570,555.78,-113.777067,55.719992,0
+102113507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,741,547.53,-113.776828,55.719992,3.12
+103113507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,624,555.12,-113.77659,55.719992,7.32
+100123507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,688.5,546.61,-113.777306,55.719993,5.17
+102123507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,735.5,544.16,-113.777544,55.719993,5.71
+103123507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,612.5,545.23,-113.777783,55.719993,3.01
+102133507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,610,549.03,-113.778499,55.719993,4.67
+100143507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,667,545.38,-113.778022,55.719993,3.05
+103143507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Pumping,Active,576.5,544.68,-113.77826,55.719993,3.35
+102153507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,604,568.68,-113.766756,55.720133,0
+100163507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,618.5,565.26,-113.766551,55.719743,3.07
+102163507725W400,Bitumen,Marten Hills,Wabiskaw-Mcmurray,McMurray,Flowing,Active,747,561.31,-113.766457,55.719619,6.84
+100143607725W400,Bitumen,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,559,559,-113.75124,55.719178,0
+100153607725W400,Gas,Marten Hills,Wabiskaw OO,Wabamun,Suspended,Suspended,600,600,-113.740622,55.722066,0
+100153607725W402,Gas,Marten Hills,Wabamun I,Wabamun,Suspended,Suspended,600,600,-113.740622,55.722066,0
+100160807726W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,657,657,-113.992575,55.661923,0
+100160807726W402,Gas,Marten Hills,Grand Rapids G5G,Mannville,Suspended,Suspended,657,657,-113.992575,55.661923,0
+102160807726W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,645.4,645.4,-113.995909,55.664585,0
+102160807726W402,Gas,Marten Hills,Clearwater H2H,Wabamun,Flowing,Active,645.4,645.4,-113.995909,55.664585,3.36
+100060907726W400,Gas,Marten Hills,Grand Rapids G5G,Wabamun,Suspended,Suspended,730,730,-113.978299,55.654802,0
+100151407726W400,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,668,642.72,-113.923019,55.678294,0
+100151407726W402,Gas,Marten Hills,Grand Rapids E5E,Mannville,Suspended,Suspended,668,642.72,-113.923019,55.678294,0
+100151507726W402,Gas,Marten Hills,Grand Rapids G5G,Mannville,Suspended,Suspended,624,624,-113.94915,55.677783,0
+100151507726W404,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,624,624,-113.94915,55.677783,0
+102151507726W400,Gas,Marten Hills,McMurray T,Wabamun,Flowing,Active,617,617,-113.947066,55.67646,8.01
+102151507726W402,Gas,Marten Hills,Grand Rapids G5G,Wabamun,Suspended,Suspended,617,617,-113.947066,55.67646,0
+100011707726W400,Gas,Marten Hills,Commingled Pool 001,Mannville,Suspended,Suspended,641,641,-113.996691,55.666174,0
+100011707726W402,Gas,Marten Hills,Commingled Pool 001,Mannville,Flowing,Active,641,641,-113.996691,55.666174,69.1
+100011707726W403,Gas,Marten Hills,Grand Rapids G5G,Mannville,Flowing,Active,641,641,-113.996691,55.666174,15.64
+102102107726W400,Gas,Marten Hills,Mannville Undefined,McMurray,Suspended,Suspended,598,598,-113.971534,55.689941,0
+100072207726W400,Gas,Marten Hills,Wabamun G,Unspecified,Suspended,Suspended,625.1,625.1,-113.948739,55.684637,0
+100092407726W400,Gas,Marten Hills,McMurray R,McMurray,Flowing,Active,610,603.89,-113.887416,55.687502,0.62
+100092407726W402,Gas,Marten Hills,Grand Rapids N5N,McMurray,Suspended,Suspended,610,603.89,-113.887416,55.687502,0
+100102407726W402,Gas,Marten Hills,Commingled Pool 001,Wabamun,Flowing,Active,622.7,622.7,-113.896723,55.687661,4.34
+100102407726W403,Gas,Marten Hills,Grand Rapids N5N,Wabamun,Suspended,Suspended,622.7,622.7,-113.896723,55.687661,0
+100012507726W400,Gas,Marten Hills,Commingled Pool 001,Wabamun,Suspended,Suspended,610,610,-113.892258,55.696424,0
+100012507726W402,Disposal - Water,Marten Hills,Commingled Pool 001,Wabamun,Not Applicable,Active,610,610,-113.892258,55.696424,0
+100042607726W400,Unspecified,Marten Hills,Unspecified,Wabamun,Drilled And Cased,Standing Cased,575,575,-113.934772,55.696028,0
+100042607726W402,Gas,Marten Hills,Grand Rapids E5E,Wabamun,Suspended,Suspended,575,575,-113.934772,55.696028,0
+100042607726W403,Gas,Marten Hills,Clearwater I2I,Wabamun,Suspended,Suspended,575,575,-113.934772,55.696028,0
+102062707726W400,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,569,569,-113.955665,55.698621,0
+100103407726W400,Gas,Marten Hills,Grand Rapids Undefined,Wabiskaw,Suspended,Suspended,539,539,-113.946028,55.717266,0
+100103407726W402,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,539,539,-113.946028,55.717266,0
+102113407726W400,Gas,Marten Hills,Clearwater F2F,Wabiskaw-McMurray,Flowing,Active,526,526,-113.955082,55.717367,8.08
+102113407726W402,Commingled,Marten Hills,Clearwater F2F,Wabiskaw-McMurray,Not Applicable,Active,526,526,-113.955082,55.717367,0
+100123507726W400,Unspecified,Marten Hills,Unspecified,Mannville,Drilled And Cased,Standing Cased,553,553,-113.938475,55.717771,0
+100070507701W503,Gas,Marten Hills,Grand Rapids Undefined,McMurray,Suspended,Suspended,682,682,-114.117987,55.642962,0
+100161407701W502,Gas,Marten Hills,Grand Rapids M6M,Mannville,Suspended,Suspended,634,634,-114.031157,55.676459,0
+100161407701W504,Gas,Marten Hills,Grand Rapids M6M,Mannville,Flowing,Active,634,634,-114.031157,55.676459,0.77
+100030207702W500,Unspecified,Marten Hills,Unspecified,McMurray,Drilled And Cased,Standing Cased,707,707,-114.197976,55.637844,0
+100070307702W500,Gas,Marten Hills,Wabiskaw X,McMurray,Suspended,Suspended,689,689,-114.215413,55.641875,0
+100040407702W500,Gas,Marten Hills,Clearwater Undefined,Wabiskaw,Suspended,Suspended,731,731,-114.255782,55.638362,0
+100100507702W502,Gas,Marten Hills,Temporary Commingled,Unspecified,Flowing,Active,682.8,682.8,-114.268354,55.645778,1.54
+100030607702W500,Gas,Marten Hills,Commingled Pool 025,McMurray,Flowing,Active,707,692.39,-114.303037,55.637861,6.14
+100030607702W502,Gas,Marten Hills,Clearwater Undefined,McMurray,Flowing,Active,707,692.39,-114.303037,55.637861,2.98
+100010707702W500,Gas,Marten Hills,Wabiskaw Y,Wabiskaw,Suspended,Suspended,664,664,-114.291142,55.653118,0
+100010707702W502,Gas,Marten Hills,Clearwater J2J,Wabiskaw,Flowing,Active,664,664,-114.291142,55.653118,3.47
+100130807702W500,Gas,Marten Hills,Grand Rapids K4K,Wabamun,Suspended,Suspended,663,663,-114.285777,55.664502,0
+100040907702W500,Gas,Marten Hills,Clearwater J2J,Wabiskaw,Suspended,Suspended,675,675,-114.259585,55.653286,0
+100101007702W500,Gas,Marten Hills,Clearwater YY,Wabamun,Flowing,Active,675,675,-114.221179,55.659511,3.14
+102051107702W500,Gas,Marten Hills,Clearwater YY,Wabamun,Suspended,Suspended,701,701,-114.206015,55.65519,0
+100090107703W500,Gas,Marten Hills,Grand Rapids Undefined,McMurray,Suspended,Suspended,676,676,-114.317063,55.645544,0
+100010307703W500,Disposal - Water,Marten Hills,Wabiskaw Undefined,Wabamun,Suspended,Suspended,751,711.18,-114.369716,55.638317,0
+100100307703W500,Gas,Marten Hills,Clearwater Undefined,McMurray,Flowing,Active,692.5,692.5,-114.372346,55.643796,0.52
+100080407703W503,Gas,Marten Hills,Clearwater ZZZ,Wabiskaw,Pumping,Active,689,689,-114.39482,55.642469,3.45
+100080407703W504,Gas,Marten Hills,Clearwater ZZZ,Wabiskaw,Suspended,Suspended,689,689,-114.39482,55.642469,0
+100100807703W500,Unspecified,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,659,659,-114.427434,55.659923,0
+100071207703W500,Gas,Marten Hills,Grand Rapids Undefined,Wabamun,Suspended,Suspended,674,674,-114.321617,55.655521,0
+100081607703W500,Gas,Marten Hills,Wabiskaw M,Wabamun,Suspended,Suspended,676,676,-114.393679,55.67097,0
+100081607703W502,Gas,Marten Hills,Clearwater Undefined,Wabamun,Suspended,Suspended,676,676,-114.393679,55.67097,0
+100061207826W400,Gas,Marten Hills,McMurray Undefined,Wabamun,Test Completed,Testing,568,568,-113.900624,55.742476,0
+100061207826W402,Gas,Marten Hills,Wabiskaw NN,Wabamun,Flowing,Active,568,568,-113.900624,55.742476,2.36
+100151707826W400,Gas,Marten Hills,Clearwater Undefined,Mannville,Testing,Testing,528,528,-114.00048,55.765278,0
+100151707826W402,Gas,Marten Hills,Clearwater Undefined,Mannville,Testing,Testing,528,528,-114.00048,55.765278,0
+100163507826W400,Observation,Marten Hills,Wabiskaw Undefined,McMurray,Not Applicable,Active,494,494,-113.916524,55.807476,0
+100103607826W400,Observation,Marten Hills,Wabiskaw Undefined,McMurray,Not Applicable,Active,490,490,-113.897127,55.805416,0
+100123607826W400,Observation,Marten Hills,McMurray Undefined,McMurray,Not Applicable,Active,493,493,-113.909717,55.804696,0
+100143607826W400,Observation,Marten Hills,McMurray Undefined,McMurray,Not Applicable,Active,492,492,-113.903381,55.806729,0
+100163607826W400,Observation,Marten Hills,Wabiskaw Undefined,Wabamun,Not Applicable,Active,536,536,-113.892694,55.808109,0
+100013507526W400,Bitumen,Marten Hills,Unspecified,Wabiskaw,Drilled And Cased,Standing Cased,810,775.3,-113.919482,55.539183,0
+100012807725W400,Bitumen,Marten Hills,Unspecified,McMurray,Cancelled,Cancelled,0,0,-113.815949,55.69792,
+100022807725W400,Bitumen,Marten Hills,Unspecified,McMurray,Cancelled,Cancelled,0,0,-113.815959,55.698054,
+100072807725W400,Bitumen,Marten Hills,Unspecified,McMurray,Cancelled,Cancelled,0,0,-113.815988,55.698458,
+102082807725W400,Bitumen,Marten Hills,Unspecified,McMurray,Cancelled,Cancelled,0,0,-113.815978,55.698324,
+103092807725W400,Bitumen,Marten Hills,Unspecified,McMurray,Cancelled,Cancelled,0,0,-113.814864,55.705532,
+103102807725W400,Bitumen,Marten Hills,Unspecified,McMurray,Cancelled,Cancelled,0,0,-113.814855,55.705397,
+103152807725W400,Bitumen,Marten Hills,Unspecified,McMurray,Cancelled,Cancelled,0,0,-113.814893,55.705936,
+105162807725W400,Bitumen,Marten Hills,Unspecified,McMurray,Cancelled,Cancelled,0,0,-113.814883,55.705801,
+100103507826W400,Observation,Marten Hills,McMurray Undefined,McMurray,Not Applicable,Active,489,489,-113.922829,55.804493,0
+100082707526W402,Bitumen,Marten Hills,Clearwater Undefined,Wabiskaw,Pumping,Active,824,820.82,-113.945841,55.522363,0
+100012307325W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2329,525.78,-113.699589,55.327814,32.88
+100043007324W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2464,524,-113.699589,55.327725,34.61
+100092807826W400,Observation,Marten Hills,McMurray Undefined,Wabamun,Not Applicable,Active,545,545,-113.96959,55.79106,0
+100012307325W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2302,527.87,-113.699589,55.327814,0
+100012307325W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2308,527.06,-113.699589,55.327814,0
+100012307325W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2317,527.24,-113.699589,55.327814,0
+100043007324W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2438,523.09,-113.699589,55.327725,0
+100043007324W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2439,522.86,-113.699589,55.327725,0
+100043007324W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2451,527.53,-113.699589,55.327725,0
+100071907501W502,Gas,Marten Hills,Wabiskaw Undefined,Wabiskaw,Flowing,Active,731,731,-114.13767,55.509687,28.55
+1AA093207725W400,Oil Sands Evaluation,Marten Hills,Unspecified,Ireton,Drilled And Cased,Standing Cased,980,980,-113.836596,55.717008,
+1AA151207826W400,Oil Sands Evaluation,Marten Hills,Unspecified,Wabamun,Cancelled,Cancelled,0,0,-113.896212,55.750126,
+1AA121407826W400,Oil Sands Evaluation,Marten Hills,Unspecified,Wabamun,Cancelled,Cancelled,0,0,-113.938544,55.759625,
+102140707601W500,Gas,Marten Hills,Unspecified,Wabamun,Cancelled Licence,Cancelled,,,-114.146862,55.575668,
+100081207504W500,Gas,Marten Hills,Unspecified,Banff,Cancelled Licence,Cancelled,,,-114.470239,55.481159,
+103121607424W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2230,518.92,-113.617887,55.412318,11.14
+100131607424W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2335,518.75,-113.617729,55.41232,10.6
+100032007424W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2239,562.77,-113.663905,55.433784,
+100142107424W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2425,565.08,-113.663751,55.433805,5.89
+100131707425W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2797,616.57,-113.856214,55.419656,
+100023507425W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,602.5,602.48,-113.736473,55.448647,
+100012507325W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2359,524.76,-113.699598,55.328264,
+100023007324W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2254,529.36,-113.686503,55.330392,
+100142107424W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2402,562.74,-113.663751,55.433805,0
+100142107424W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2397,562.7,-113.663751,55.433805,0
+100142107424W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2392,562.03,-113.663751,55.433805,0
+100131607424W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2275,518.33,-113.617729,55.41232,0
+100131607424W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2314,518.32,-113.617729,55.41232,0
+100131607424W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2319,518.14,-113.617729,55.41232,0
+103121607424W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2228,518.92,-113.617887,55.412318,0
+103121607424W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2219,518.92,-113.617887,55.412318,0
+103121607424W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2220,518.92,-113.617887,55.412318,0
+102023007324W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2220,530.36,-113.686503,55.330482,
+100031907324W400,Bitumen,Marten Hills,Unspecified,Ireton,Drilled And Cased,Standing Cased,986,985.4,-113.686503,55.330302,
+100032707526W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2182,763.72,-113.933963,55.52274,
+100160707525W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2300,609.02,-113.867886,55.471759,
+100042007425W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2664,2664,-113.856348,55.419508,
+100111007525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,606,606,-113.759899,55.487085,
+100113207425W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2283,565.31,-113.817237,55.440058,
+100111707625W403,Unspecified,Marten Hills,Unspecified,Wabiskaw-McMurray,Drilled And Cased,Standing Cased,694,694,-113.850423,55.585908,0
+100083607425W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2480,566.08,-113.736473,55.448647,0
+100083607425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2492,566.08,-113.736473,55.448647,0
+100083607425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2506,566.3,-113.736473,55.448647,0
+100083607425W402,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Flowing,Active,2526,566.08,-113.736473,55.448647,36.79
+100131707425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2768,617.74,-113.856214,55.419656,
+100131707425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2768,622.16,-113.856214,55.419656,
+100131707425W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2759,617.25,-113.856214,55.419656,
+100032007424W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2270,562.9,-113.663905,55.433829,
+100032007424W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2253,562.63,-113.663905,55.433829,
+100032007424W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2241,562.63,-113.663905,55.433829,
+100012507325W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2348,524.76,-113.699598,55.328264,
+100012507325W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2371,524.76,-113.699598,55.328264,
+100012507325W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2360,524.76,-113.699598,55.328264,
+102033007324W405,Drain,Marten Hills,Unspecified,Ireton,Not Applicable,Active,2321,529.76,-113.686503,55.330302,
+102033007324W404,Drain,Marten Hills,Unspecified,Ireton,Not Applicable,Active,2310,529.19,-113.686503,55.330302,
+102033007324W403,Drain,Marten Hills,Unspecified,Ireton,Not Applicable,Active,2310,530.07,-113.686503,55.330302,
+102033007324W402,Bitumen,Marten Hills,Clearwater Undefined,Ireton,Pumping,Active,2322,532.39,-113.686503,55.330302,
+100033007324W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2206,529.26,-113.686503,55.330482,
+100033007324W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2201,529.26,-113.686503,55.330482,
+100033007324W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2206,529.26,-113.686503,55.330482,
+100023007324W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2258,529.17,-113.686503,55.330392,
+100023007324W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2246,529.17,-113.686503,55.330392,
+100023007324W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2245,529.36,-113.686503,55.330392,
+100123007425W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2506,565.68,-113.817364,55.440066,
+100032707526W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2234,766.16,-113.933963,55.52274,
+100042707526W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2452,765.03,-113.933963,55.52274,
+102050507525W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,1406,600.68,-113.872217,55.465271,
+100101007525W409,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2558,573.43,-113.759899,55.487085,
+100091007525W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2440,569.07,-113.759899,55.487085,
+100101007525W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2610,573.55,-113.759899,55.487085,
+100091007525W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2455,570.44,-113.759899,55.487085,
+100091007525W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2416,570.78,-113.759899,55.487085,
+100091007525W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2500,575.52,-113.759899,55.487085,
+100101007525W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2603,571.18,-113.759899,55.487085,
+100071007525W402,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2791,571.62,-113.759899,55.487085,
+100160707525W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2184,608.85,-113.867886,55.471759,
+100160707525W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2400,612.66,-113.867886,55.471759,
+100160707525W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2458,609.96,-113.867886,55.471759,
+100160707525W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2365,614.68,-113.867886,55.471759,
+102090707525W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2136,614.98,-113.867886,55.471759,
+102090707525W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2011,608.29,-113.867886,55.471759,
+100160707525W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2459,617.74,-113.867886,55.471759,
+102143207425W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2487,571.12,-113.817237,55.440058,
+100113207425W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2235,576.84,-113.817237,55.440058,
+102143207425W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2356,571.33,-113.817237,55.440058,
+102143207425W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2300,576.65,-113.817237,55.440058,
+102143207425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2337,574.39,-113.817237,55.440058,
+102143207425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2291,566.18,-113.817237,55.440058,
+102143207425W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2368,575.86,-113.817237,55.440058,
+102113007425W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2241,570.81,-113.817364,55.440066,
+100123007425W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2630,567.41,-113.817364,55.440066,
+100123007425W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2649,571.42,-113.817364,55.440066,
+100123007425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2658,571.32,-113.817364,55.440066,
+100123007425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2532,565.68,-113.817364,55.440066,
+100123007425W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2589,2589,-113.817364,55.440066,
+1W0123207425W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2359.7,569.79,-113.817492,55.440075,
+102103207425W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2567,567.82,-113.817116,55.440049,
+100150707525W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2321,613.29,-113.868022,55.471714,
+103023007324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-113.686499,55.330212,
+102012507325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2494,2494,-113.710247,55.329416,
+100022507325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2391,2391,-113.710404,55.328168,
+102032507325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2406,0,-113.710562,55.328168,
+100032507325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2800,0,-113.710719,55.328168,
+100042207325W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2724,518.9,-113.742403,55.326679,
+100032607325W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2513,515.31,-113.741931,55.326679,
+102032607325W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2556,516.51,-113.742088,55.326679,
+100042607325W400,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Drilled And Cased,Standing Cased,2623,516.73,-113.742246,55.326679,
+100010507525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-113.87222,55.465234,
+100161807525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2436,588.84,-113.866362,55.484667,
+100150707525W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2203,613.28,-113.868022,55.471714,
+100150707525W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2411,613.28,-113.868022,55.471714,
+100150707525W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2473,613.28,-113.868022,55.471714,
+100150707525W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2580,613.28,-113.868022,55.471714,
+100150707525W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2202,613.57,-113.868022,55.471714,
+100150707525W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2386,613.28,-113.868022,55.471714,
+100150707525W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2484,615.51,-113.868022,55.471714,
+1W0123207425W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2516,573.06,-113.817492,55.440075,
+1W0123207425W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2522,578.15,-113.817492,55.440075,
+1W0123207425W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2544,572.94,-113.817492,55.440075,
+1W0123207425W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2545,578.13,-113.817492,55.440075,
+1W0123207425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2515,577.86,-113.817492,55.440075,
+1W0123207425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2278,569.79,-113.817492,55.440075,
+1W0123207425W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2440,575.36,-113.817492,55.440075,
+100123007425W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2607,2607,-113.817364,55.440066,
+100151807525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2789,589.88,-113.866521,55.484667,
+100013607425W400,Drain,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,2774,564.01,-113.73661,55.448691,
+102042007425W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2655,2655,-113.856227,55.419745,
+100052007425W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilled And Cased,Standing Cased,2724,0,-113.856239,55.419047,
+100162107526W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-114.000943,55.515365,
+102080507525W409,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2675,602.78,-113.872217,55.465271,
+102080507525W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2495,602.33,-113.872217,55.465271,
+102080507525W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2712,604.07,-113.872217,55.465271,
+102080507525W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2470,602.21,-113.872217,55.465271,
+102080507525W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2635,599.74,-113.872217,55.465271,
+102080507525W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2561.7,603.47,-113.872217,55.465271,
+102080507525W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2543,601.99,-113.872217,55.465271,
+100080607525W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,1085,601.7,-113.872217,55.465271,
+102103207425W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2330,574.56,-113.817116,55.440049,
+102103207425W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2532,577.53,-113.817116,55.440049,
+102103207425W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2349,577.09,-113.817116,55.440049,
+100093207425W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2339,575.84,-113.817116,55.440049,
+102103207425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2526,575.85,-113.817116,55.440049,
+102103207425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2532,569.64,-113.817116,55.440049,
+102103207425W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2523,577.99,-113.817116,55.440049,
+100132207526W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2763,0,-113.933957,55.521177,
+102052707526W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing Cased,Standing Cased,2534,0,-113.933954,55.521177,
+100161407325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-113.70083,55.324506,
+102161407325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-113.700827,55.324372,
+100091407325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-113.700824,55.324237,
+100013507325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Set Surface Casing,Drilling,0,0,-113.696025,55.357261,
+100161807525W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2667,588.46,-113.866362,55.484667,
+100161807525W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2673,588.54,-113.866362,55.484667,
+100161807525W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2685,588.54,-113.866362,55.484667,
+100161807525W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2669,591.17,-113.866362,55.484667,
+100161807525W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2661,591.91,-113.866362,55.484667,
+100161807525W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2636,588.84,-113.866362,55.484667,
+100161807525W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2652,591.25,-113.866362,55.484667,
+100042607325W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2615,517.54,-113.742246,55.326679,
+100042607325W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2608,517.16,-113.742246,55.326679,
+100042607325W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2614,517.17,-113.742246,55.326679,
+102032607325W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2330,516.01,-113.742088,55.326679,
+102032607325W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2542,516.01,-113.742088,55.326679,
+102032607325W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2539,516.01,-113.742088,55.326679,
+102032607325W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2545,516.51,-113.742088,55.326679,
+100142307325W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2233,514.97,-113.741931,55.326679,
+100032607325W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2605,514.74,-113.741931,55.326679,
+100032607325W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2611,516.94,-113.741931,55.326679,
+100133207324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing,Standing,2900,0,-113.663235,55.353664,
+102133207324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Set Surface Casing,Drilling,0,0,-113.663239,55.353664,
+103133207324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Set Surface Casing,Drilling,0,0,-113.663082,55.353664,
+100143207324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Drilling,Drilling,0,0,-113.663077,55.353664,
+102143207324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Set Surface Casing,Drilling,0,0,-113.662919,55.353664,
+103143207324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Set Surface Casing,Drilling,0,0,-113.662924,55.353664,
+104143207324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Set Surface Casing,Drilling,0,0,-113.662762,55.353664,
+100153207324W400,Bitumen,Marten Hills,Unspecified,Clearwater,Set Surface Casing,Drilling,2900,0,-113.662766,55.353664,
+100102707325W400,Bitumen,Marten Hills,Unspecified,Clearwater,Set Surface Casing,Drilling,0,0,-113.758797,55.371727,
+100163007424W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-113.682386,55.430165,
+100153007424W400,Bitumen,Marten Hills,Unspecified,Clearwater,Standing,Standing,2400,0,-113.682385,55.429902,
+102083207501W500,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-114.138926,55.539286,
+103083207501W500,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-114.138926,55.539286,
+100051607424W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-113.61749,55.412321,
+102091107526W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-113.945618,55.48513,
+100091107526W400,Observation,Marten Hills,Unspecified,Wabamun,Location,Licenced,0,0,-113.917835,55.484807,
+100101507603W500,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,0,0,-114.342831,55.590311,
+100151807525W408,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2757,589.88,-113.866521,55.484667,
+100151807525W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2745,589.88,-113.866521,55.484667,
+100151807525W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2686,589.88,-113.866521,55.484667,
+100151807525W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2696,589.88,-113.866521,55.484667,
+100151807525W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2731,589.88,-113.866521,55.484667,
+100151807525W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2736,589.88,-113.866521,55.484667,
+100151807525W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2775,589.88,-113.866521,55.484667,
+100013607425W408,Bitumen,Marten Hills,Clearwater Undefined,Clearwater,Pumping,Active,2805,2805,-113.73661,55.448691,
+100013607425W407,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2788,2788,-113.73661,55.448691,
+100013607425W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2787,2787,-113.73661,55.448691,
+100013607425W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2775,2775,-113.73661,55.448691,
+100013607425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2766,2766,-113.73661,55.448691,
+100013607425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2761,2761,-113.73661,55.448691,
+100013607425W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2764,2764,-113.73661,55.448691,
+102042007425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2688,2688,-113.856227,55.419745,
+102042007425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2685,2685,-113.856227,55.419745,
+102042007425W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2684,2684,-113.856227,55.419745,
+100042007425W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2715,2715,-113.856348,55.419508,
+100042007425W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2697,2697,-113.856348,55.419508,
+100042007425W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2684,2684,-113.856348,55.419508,
+100042007425W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2693,2693,-113.856348,55.419508,
+100042007425W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2698,2698,-113.856348,55.419508,
+100022507325W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2387,2387,-113.710404,55.329412,
+100022507325W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2197,2197,-113.710404,55.329412,
+100022507325W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2236,2236,-113.710404,55.329412,
+100022507325W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2365,2365,-113.710404,55.329412,
+100022507325W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2377,2377,-113.710404,55.329412,
+102012507325W406,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2484,2484,-113.710247,55.329416,
+102012507325W405,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2469,2469,-113.710247,55.329416,
+102012507325W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2459,2459,-113.710247,55.329416,
+102012507325W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2452,2452,-113.710247,55.329416,
+102012507325W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2477,2477,-113.710247,55.329416,
+100042207325W404,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2648,519.08,-113.742403,55.326679,
+100042207325W403,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2753,518.75,-113.742403,55.326679,
+100042207325W402,Drain,Marten Hills,Unspecified,Clearwater,Not Applicable,Active,2717,518.98,-113.742403,55.326679,
+100132007425W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,,,-113.855945,55.426275,
+102132007425W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,,,-113.855945,55.426275,
+100151007525W400,Bitumen,Marten Hills,Unspecified,Clearwater,Location,Licenced,,,-113.761178,55.488046,
