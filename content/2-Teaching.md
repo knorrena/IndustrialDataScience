@@ -6,11 +6,34 @@ topics: Python and Data Science in the Natural Resources Industry
 ---
 
 
-### Data Science for the Geoscientists
+## Data Science for Geoscientists
 
-[Getting Started with Python](https://github.com/knorrena/IndustrialDataScience/blob/main/content/100_getting_started_with_python.ipynb)
+### Session 1
+TOC:
+- What to Install
+- What is a Jupyter notebook
+- What is a Spyder
+- Errors, because your gonna see them
+- Data types
+- Python Operators
+- A first mapping example
 
-[Data Types, Data Modelling and Oil and Gas Production Data]()
+[Session 1](https://github.com/knorrena/IndustrialDataScience/blob/main/content/100_getting_started_with_python.ipynb)
 
-[Mapping Well Locations]()
+### Session 2
+TOC:
+- Basic filtering
+- Loops
+- Kernels
+- A soft introduction to Pandas
+- Fitlering and mapping
 
+[Session 2](https://github.com/knorrena/IndustrialDataScience/blob/main/content/101_getting_started_with_python.ipynb)
+
+
+## Geomodelling
+No content yet
+
+
+## Reservoir Engineering
+No content yet
