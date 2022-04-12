@@ -8,7 +8,7 @@ topics: Python and Data Science in the Natural Resources Industry
 
 ## Data Science for Geoscientists
 
-### Session 1
+### [Session 1](https://github.com/knorrena/IndustrialDataScience/blob/main/content/100_getting_started_with_python.ipynb)
 TOC:
 - What to Install
 - What is a Jupyter notebook
@@ -20,13 +20,13 @@ TOC:
 
 [Session 1](https://github.com/knorrena/IndustrialDataScience/blob/main/content/100_getting_started_with_python.ipynb)
 
-### Session 2
+### [Session 2](https://github.com/knorrena/IndustrialDataScience/blob/main/content/101_getting_started_with_python.ipynb)
 TOC:
 - Basic filtering
 - Loops
 - Kernels
 - A soft introduction to Pandas
-- Fitlering and mapping
+- Filtering and mapping
 
 [Session 2](https://github.com/knorrena/IndustrialDataScience/blob/main/content/101_getting_started_with_python.ipynb)
 
