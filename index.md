@@ -10,12 +10,13 @@ Industrial Data Science Inc. focuses on solving data science problems in the Geo
 
 - **Data Science**: Natural Resources Industry focused data science, data modelling, and machine learning. 
 - **Geomodeling**: Geomodels of any complexity in almost any software, including Petrel, GoCad, GSLIB.
-- **Fluid Flow Simulation**: Fluids modelling and the flow of fluids in porous media in Eclipse 
+- **Reservoir Engineering and Flow Simulation**: Fluids modelling and the flow of fluids in porous media in Eclipse 
 - **Teaching and Thought Leadership**: Programming and data science skills for the natural resources industry, geomodelling, 
 and flow simulation.  
 
 See the [Teaching Section](https://knorrena.github.io/IndustrialDataScience/content/2-Teaching.html) for a collection of 
 Jupyter notebooks on Python and Data Science in the Natural Resources Industries.  
+
 See the [Projects Section](https://knorrena.github.io/IndustrialDataScience/content/1-Projects.html) to review a sample of 
 the projects that Industrial Data Science Inc. have completed.  
 
