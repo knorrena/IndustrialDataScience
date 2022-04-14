@@ -4,7 +4,7 @@ layout: default
 nav: Resources
 ---
 
-[Oil Dashboard](https://idsoil.herokuapp.com/)
+[Ongoing: Oil Dashboard](https://idsoil.herokuapp.com/)
 
 
 ### Other Blogs
